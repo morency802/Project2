@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="21.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qproject02-morency.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="project02-morency.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>

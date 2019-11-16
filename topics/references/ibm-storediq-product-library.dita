@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ibm-storediq-product-library">
+    <title>IBM StoredIQ product library</title>
+    <shortdesc>The following documents are available in the IBM&#0174; StoredIQ&#0174; product library.</shortdesc>
+    <refbody>
+        <section>
+        <title></title>
+        <p><ul>
+            <li><i>IBM StoredIQ Overview Guide</i></li>
+            <li><i>IBM StoredIQ Deployment and Configuration Guide</i></li>
+            <li><i>IBM StoredIQ Data Server Administration Guide</i></li>
+            <li><i>IBM StoredIQ Administrator Administration Guide</i></li>
+            <li><i>IBM StoredIQ Data Workbench User Guide</i></li>
+            <li><i>IBM StoredIQ Policy Manager User Guide</i></li>
+            <li><i>IBM StoredIQ Insights User Guide</i></li>
+            <li><i>IBM StoredIQ Integration Guide</i></li>
+        </ul></p>
+    </section> 
+    </refbody>
+</reference>

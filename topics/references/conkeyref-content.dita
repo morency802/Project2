@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="conkeyref-content">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section>
+            <title></title>
+            <p>
+                <image id="dataserveradmin" href="../../resources/storediq-dataserver-administration-01.png"></image>
+                <image id="admin" href="../../resources/storediq-administrator.png"></image>
+                <image id="dataworkbench" href="../../resources/storediq-dataworkbench.png"></image>
+                <image id="insights" href="../../resources/storediq-insights.png"></image>
+                <image id="policymgr" href="../../resources/storediq-policymgr.png"></image>
+            </p>
+        </section>
+        
+    </refbody>
+</reference>

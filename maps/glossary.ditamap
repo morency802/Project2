@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>IBM Terms</title>
+    <topichead navtitle="Glossary">
+        <topichead navtitle="A">
+            <topicref href="../topics/glossary/glossary.dita#applicationStack"></topicref>
+            <topicref href="../topics/glossary/glossary.dita#autoclassification"></topicref>
+        </topichead>
+        <topichead navtitle="C">
+            <topicref href="../topics/glossary/glossary.dita#cartridges"></topicref>
+            <topicref href="../topics/glossary/glossary.dita#connectorApiSdk"></topicref>
+        </topichead>
+        <topichead navtitle="D">
+            <topicref href="../topics/glossary/glossary.dita#dataServers"></topicref>
+            <topicref href="../topics/glossary/glossary.dita#dataserverClassic"></topicref> 
+            <topicref href="../topics/glossary/glossary.dita#dataserverDistributed"></topicref>
+        </topichead>
+        <topichead navtitle="G">
+            <topicref href="../topics/glossary/glossary.dita#gateway"></topicref>
+        </topichead>
+        <topichead navtitle="I">
+            <topicref href="../topics/glossary/glossary.dita#storediqInsights"></topicref>
+        </topichead>
+        
+    </topichead>
+</map>

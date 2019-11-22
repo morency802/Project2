@@ -2,4 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title></title>
+    <topicref href="topics/concepts/cover.dita"/>
+    <topicref href="topics/concepts/about-this-publication.dita">
+        <topicref href="topics/references/ibm-storediq-product-library.dita"/>
+        <topicref href="topics/tasks/contacting-ibm.dita"/>
+    </topicref>
+    <topicref href="topics/concepts/ibm-storediq-components.dita">
+        <topicref href="topics/concepts/solution-components.dita"/>
+    </topicref>
+    <mapref href="maps/conkeyref-content.ditamap" format="ditamap"></mapref>
 </map>

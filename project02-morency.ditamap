@@ -15,5 +15,12 @@
     </topicref>
     <topicref href="topics/concepts/planning-for-deployment.dita">
         <topicref href="topics/references/ova-config-requirements.dita"/>
+        <topicref href="topics/references/network-port-requirements.dita"/>
+        <topicref toc="no" href="topics/tasks/opening-ports-ova.dita"/>
+        <topicref href="topics/references/environment-sizing-guidelines.dita"/>
+        <topicref href="topics/references/stack-provisioning-prereqs.dita"/>
+        <topicref href="topics/concepts/license-usage-metrics.dita"/>
+        <topicref href="topics/concepts/security.dita"/>
+        <topicref toc="no" href="topics/references/default-user-accounts.dita"/>
     </topicref>
 </map>

@@ -17,6 +17,18 @@
                 </messagepanel>
             </hazardstatement>
             
+            <hazardstatement id="haz2" type="important">
+                <messagepanel>
+                    <typeofhazard>
+                        
+                    </typeofhazard>
+                    <howtoavoid>
+                        <b>Important:</b>If your IBM StoredIQ environment includes an Elasticsearch cluster, do not select this option when you're 
+                        deploying the data server OVA. The Elasticsearch cluster setup must be complete before you run the data server first-boot process. 
+                    </howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            
         </p>
     </conbody>
 </concept>

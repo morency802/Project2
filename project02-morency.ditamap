@@ -23,4 +23,8 @@
         <topicref href="topics/concepts/security.dita"/>
         <topicref toc="no" href="topics/references/default-user-accounts.dita"/>
     </topicref>
+    <topicref href="topics/concepts/deploying-ibm-storediq.dita">
+        <topicref href="topics/tasks/deploying-virtual-appliances.dita"/>
+        <topicref href="topics/tasks/deploying-ibmstorediq-ms-hv.dita"/>
+    </topicref>
 </map>

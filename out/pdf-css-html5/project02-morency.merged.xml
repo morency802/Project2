@@ -10,6 +10,7 @@
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="about-this-publication"><resourceid appid="about-this-publication" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ Deployment and Configuration Guide provides information about how to plan, deploy, and configure the IBM StoredIQ product.     </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="ibm-storediq-product-library"><resourceid appid="ibm-storediq-product-library" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="contacting-ibm"><resourceid appid="contacting-ibm" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="ibm-storediq-components"><resourceid appid="ibm-storediq-components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data server, and optionally the Elasticsearch cluster.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="solution-components"><resourceid appid="solution-components" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         IBM StoredIQ provides three solution components: the gateway, data servers, and application stack (AppStack). </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="applications-of-storediq"><resourceid appid="applications-of-storediq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.     </shortdesc></topicmeta></topicref></topicref>
     <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="planning-for-deployment"><resourceid appid="planning-for-deployment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Planning for deployment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_9" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="ova-config-requirements"><resourceid appid="ova-config-requirements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0 (all fix pack levels) or          VMware ESXi 6.0 (all fix pack levels) environments. You must have a virtual infrastructure that meets the IBM          StoredIQ hardware requirements.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="network-port-requirements"><resourceid appid="network-port-requirements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="environment-sizing-guidelines"><resourceid appid="environment-sizing-guidelines" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To size an environment precisely, you must understand the factors such as harvest frequency, complexity of the source, and use case scenarios that drive application use and action execution. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="stack-provisioning-prereqs"><resourceid appid="stack-provisioning-prereqs" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="license-usage-metrics"><resourceid appid="license-usage-metrics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security"><resourceid appid="security" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Security</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages, especially when you deploy          IBM StoredIQ into sensitive environments. </shortdesc></topicmeta></topicref></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_17" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="deploying-ibm-storediq"><resourceid appid="deploying-ibm-storediq" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploying-virtual-appliances"><resourceid appid="deploying-virtual-appliances" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="deploying-ibmstorediq-ms-hv"><resourceid appid="deploying-ibmstorediq-ms-hv" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application          stack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance. </shortdesc></topicmeta></topicref></topicref>
 </opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="cover" oid="cover">
     <title class="- topic/title ">Cover Page</title>
     <shortdesc class="- topic/shortdesc "/>
@@ -585,7 +586,7 @@
         <p class="- topic/p "><b class="+ topic/ph hi-d/b ">SSH port 22</b></p>
         <p class="- topic/p ">By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell (SSH) communication and allows remote administration access to the VM. In general, traffic is encrypted using password authentication. To add a layer of security, you can establish key-based authentication for passwordless SSH logins to any of the IBM StoredIQ nodes in your environment as described in “Configuring SSH key-based authentication” on page 45.
         </p>
-        <table class="- topic/table " colsep="1" frame="all" rowsep="1" id="d30e1022">
+        <table class="- topic/table " colsep="1" frame="all" rowsep="1" id="d30e1055">
             <title class="- topic/title ">Default open ports on the AppStack</title>
             <tgroup class="- topic/tgroup " cols="2">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="2*" rowsep="1" xtrc="colspec:1;39:87" xtrf="file:/C:/Users/moren/Desktop/XML%20Class/PROJECT2/project02-morency/topics/references/network-port-requirements.dita" style="width:50%;"/>
@@ -615,7 +616,7 @@
         </table>
     </section>
     <section class="- topic/section ">
-        <table class="- topic/table " frame="all" id="d30e1080">
+        <table class="- topic/table " frame="all" id="d30e1113">
             <title class="- topic/title ">Default open ports on the IBM StoredIQ data server</title>
             <tgroup class="- topic/tgroup " cols="3">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1*" rowsep="1" xtrc="colspec:3;69:87" xtrf="file:/C:/Users/moren/Desktop/XML%20Class/PROJECT2/project02-morency/topics/references/network-port-requirements.dita" style="width:33.3333%;"/>
@@ -688,7 +689,7 @@
     </section>
     <section class="- topic/section ">
         <title class="- topic/title "/>
-        <table class="- topic/table " frame="all" id="d30e1249">
+        <table class="- topic/table " frame="all" id="d30e1282">
             <title class="- topic/title ">Default open ports on the nodes in the Elasticsearch cluster </title>
             <tgroup class="- topic/tgroup " cols="3">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1*" xtrc="colspec:6;142:76" xtrf="file:/C:/Users/moren/Desktop/XML%20Class/PROJECT2/project02-morency/topics/references/network-port-requirements.dita" style="width:33.3333%;"/>
@@ -745,7 +746,7 @@
     </section>
     <section class="- topic/section ">
         <title class="- topic/title "/>
-        <table class="- topic/table " frame="all" id="d30e1378">
+        <table class="- topic/table " frame="all" id="d30e1411">
             <title class="- topic/title ">Default open ports on the IBM StoredIQ gateway </title>
             <tgroup class="- topic/tgroup " cols="3">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1*" xtrc="colspec:9;199:76" xtrf="file:/C:/Users/moren/Desktop/XML%20Class/PROJECT2/project02-morency/topics/references/network-port-requirements.dita" style="width:33.3333%;"/>
@@ -941,21 +942,21 @@
             is created. A maximum of 10 log files are kept. </p>
         <p class="- topic/p ">The .slmtag file contains usage information in the following format, where new metric records are appended to the end of the file:
         
-            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
-            &lt;SoftwareIdentity&gt;                   
-                    &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
-                    &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
-                    &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
-            &lt;/SoftwareIdentity&gt;
-            &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
-                    &lt;Type&gt;TERABYTE&lt;/Type&gt;    
-                    &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
-                    &lt;Value&gt;0.005&lt;/Value&gt;
-                    &lt;Period&gt;                
-                           &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
-                           &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
-                    &lt;/Period&gt; 
-             &lt;/Metric&gt;</codeblock>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve">&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
+        &lt;SoftwareIdentity&gt;                   
+               &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
+               &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
+               &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
+        &lt;/SoftwareIdentity&gt;
+        &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
+               &lt;Type&gt;TERABYTE&lt;/Type&gt;    
+               &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
+               &lt;Value&gt;0.005&lt;/Value&gt;
+               &lt;Period&gt;                
+                        &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
+                        &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
+               &lt;/Period&gt; 
+         &lt;/Metric&gt;</codeblock>
         </p>
         <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Integration with IBM License Metric Tool </b></p>
         <p class="- topic/p ">
@@ -1009,7 +1010,7 @@
         </p>
         <p class="- topic/p ">
             If FIPS is not enabled, the following cipher suites and encryption algorithm are used for data at rest: 
-            <lines class="- topic/lines " xml:space="preserve">TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 
+                  <lines class="- topic/lines " xml:space="preserve">TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 
                    TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256</lines>
             You can configure these cipher suites in the configuration files listed in the list of key and certificate files. However, if you run the utilities 
             for enabling stunnel, you might need to make the respective configuration changes again. 
@@ -1167,4 +1168,239 @@
         </simpletable>
     </section>
     </refbody>
-</reference></concept></map>
+</reference></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="deploying-ibm-storediq" oid="deploying-ibm-storediq">
+    <title class="- topic/title ">Deploying IBM StoredIQ</title>
+    <shortdesc class="- topic/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="deploying-virtual-appliances" oid="deploying-virtual-appliances">
+    <title class="- topic/title ">Deploying the virtual appliances</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">
+            <p class="- topic/p ">
+                Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, 
+                the data server, and the application stack, preferably in this order. If an Elasticsearch cluster is also 
+                being deployed, those OVAs must be deployed first. 
+            </p>
+            <p class="- topic/p ">
+                Ensure that all prerequisites for the deployment described in the planning section are met and that the 
+                required software packages are available on your local system before you start this task. 
+            </p>
+            <p class="- topic/p ">
+                Download the latest version of IBM StoredIQ from either IBM Fix Central or IBM Passport Advantage®. For 
+                information about the package names and part numbers and the links to the proper download locations, see the 
+                download document. 
+            </p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">
+                The number of Elasticsearch OVAs deployed depends on the planned size of your Elasticsearch cluster. The default 
+                setup is a three-node cluster. Each Elasticsearch node requires a separate OVA deployment. 
+            </p>
+            <p class="- topic/p ">
+                The number of data server OVAs deployed depends on the number of data servers needed. Each data server requires 
+                a separate OVA deployment. 
+            </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Connect to the ESX server or vCenter server.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open VMware vSphere Client. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">File &gt; Deploy OVF Template</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Within the <b class="+ topic/ph hi-d/b ">Deploy OVF Template</b> wizard, complete these steps.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Within the <b class="+ topic/ph hi-d/b ">Select source</b> page, click <b class="+ topic/ph hi-d/b ">Local file</b>, and then browse to and select the appropriate OVF. Click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">
+                            Within the <b class="+ topic/ph hi-d/b ">Review details</b> page, review the OVF template details.
+                        </cmd>
+                        <info class="- topic/itemgroup task/info ">These storage requirements are critical and will be used to select a data store during deployment. Click <b class="+ topic/ph hi-d/b ">Next</b> to proceed. </info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Within the <b class="+ topic/ph hi-d/b ">Select name and folder</b> page, enter a name for the deployed template or use the default name. Click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Within the <b class="+ topic/ph hi-d/b ">Select a resource</b> page, select the resource pool where the deployed OVF template runs. Click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">
+                            Within the <b class="+ topic/ph hi-d/b ">Select storage</b> page, select a data store on which to store the deployed OVF template files. Click <b class="+ topic/ph hi-d/b ">Next</b>. 
+                        </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">
+                            Within the <b class="+ topic/ph hi-d/b ">Disk Format</b> list, select the disk format to be deployed. Note that although <b class="+ topic/ph hi-d/b ">Thin Provision</b> saves disk space, it can negatively 
+                            affect performance. If possible, select <b class="+ topic/ph hi-d/b ">Thick Provision Lazy Zeroed</b>. Click <b class="+ topic/ph hi-d/b ">Next</b>. 
+                        </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">
+                            Within the <b class="+ topic/ph hi-d/b ">Network Mapping</b>, map the network to the appropriate network. Click <b class="+ topic/ph hi-d/b ">Next</b>.
+                        </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">
+                            Within the <b class="+ topic/ph hi-d/b ">Ready to Complete</b> page, review the deployment settings. Click <b class="+ topic/ph hi-d/b ">Finish</b> to complete the Deploy OVF Template. 
+                        </cmd>
+                        <info class="- topic/itemgroup task/info "><p class="- topic/p ">At this point, you can select the <b class="+ topic/ph hi-d/b ">Power on</b> check box to turn on the VM after deployment is complete. </p>
+                            <p class="- topic/p ">
+                                <hazardstatement class="+ topic/note hazard-d/hazardstatement " type="important">
+                <messagepanel class="+ topic/ul hazard-d/messagepanel ">
+                    <typeofhazard class="+ topic/li hazard-d/typeofhazard ">
+                        
+                    </typeofhazard>
+                    <howtoavoid class="+ topic/li hazard-d/howtoavoid ">
+                        <b class="+ topic/ph hi-d/b ">Important:</b>If your IBM StoredIQ environment includes an Elasticsearch cluster, do not select this option when you're 
+                        deploying the data server OVA. The Elasticsearch cluster setup must be complete before you run the data server first-boot process. 
+                    </howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+                            </p>
+                        </info>
+                    </substep>
+                </substeps>          
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Repeat steps 3 and 4 for each OVA. </cmd>
+            </step>        
+        </steps>     
+        <postreq class="- topic/section task/postreq ">
+            <p class="- topic/p ">Configure the components of your IBM StoredIQ environment in this order:
+            <ol class="- topic/ol ">
+                <li class="- topic/li ">Elasticsearch cluster (if applicable) </li>
+                <li class="- topic/li ">Gateway</li>
+                <li class="- topic/li ">One or more data servers </li>
+                <li class="- topic/li ">Application stack
+                </li>
+            </ol>
+            </p>
+        </postreq>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="deploying-ibmstorediq-ms-hv" oid="deploying-ibmstorediq-ms-hv">
+    <title class="- topic/title ">Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+    <shortdesc class="- topic/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application 
+        stack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq ">
+            <p class="- topic/p ">Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the procedure described 
+                here, the following software prerequisites must be met: </p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Microsoft Hyper-V Manager must be installed on a Windows system.</li>
+                <li class="- topic/li ">7-zip for Windows or tar for the Linux operating system must be available to extract contents of the OVA. </li>
+                <li class="- topic/li ">7-zip for Windows or gunzip for the Linux operating system must be installed to decompress the vmdk.gz file. </li>
+                <li class="- topic/li "> Microsoft Virtual Machine Converter 3.0 (Windows) or qemu-img (Linux) or must be installed to convert the files from VMWare .vmdk files to Hyper-V .vhdx files. </li>
+            </ul>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually. </p>
+            <p class="- topic/p ">Consider the following instructions a sample procedure. The instructions might differ depending on the version of the third-party software. </p>
+            <p class="- topic/p ">Complete these steps for the gateway, the data server, and the AppStack: </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Extract the vmdk file from the OVA. </cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Download the OVA. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Extract the contents of the OVA by using 7-zip for Windows or tar for the Linux operating system. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Decompress the <codeph class="+ topic/ph pr-d/codeph ">vmdk.gz</codeph> archive by using 7-zip for Windows or gunzip for Linux. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Delete everything except the <codeph class="+ topic/ph pr-d/codeph ">vmdk</codeph> file when the OVA extraction is complete. </cmd>
+                    </substep>
+                </substeps>         
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Convert the VMWare .vmdk file to a Microsoft Hyper-V .vhdx file.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    For instructions about converting .vmdk files to .vhdx files, see the following links: 
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li ">Use Microsoft Virtual Machine Converter </li>
+                        <li class="- topic/li ">Using qemu-img</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Build a virtual machine.</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">New Virtual Machine &gt; Next</b> from Hyper-V Manager. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the name of the virtual machine in the <b class="+ topic/ph hi-d/b ">Specify Name and Location</b> window and click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Generation of the machine</b> in the <b class="+ topic/ph hi-d/b ">Specify Generation</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter the startup memory in the <b class="+ topic/ph hi-d/b ">Assign Memory</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the correct network in the <b class="+ topic/ph hi-d/b ">Configure Network</b> window and click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Use an existing virtual hard disk</b> in the <b class="+ topic/ph hi-d/b ">Connect Virtual Hard Disk</b> window. Search the disk location, 
+                            select one of the primary disks, and then click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Finish</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat these previous steps for all IBM StoredIQ disks. </cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Optional: Add disks. </cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select a virtual machine in Microsoft Hyper-V Manager. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the settings for the virtual machine under <b class="+ topic/ph hi-d/b ">Actions</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the IDE controller and highlight Hard Drive in the <b class="+ topic/ph hi-d/b ">Settings</b> window.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select Hard Drive and virtual hard disk and click <b class="+ topic/ph hi-d/b ">New</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Next</b> in the New Virtual Hard Disk wizard. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">VHDX</b> in Choose Disk Format and then click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Dynamically expanding</b> in Choose Disk Type and then click <b class="+ topic/ph hi-d/b ">Next</b>. </cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter a name for the disk in the <b class="+ topic/ph hi-d/b ">Specify Name and Location</b> window and the click <b class="+ topic/ph hi-d/b ">Next</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Create a new blank virtual hard disk</b> and enter a size in the <b class="+ topic/ph hi-d/b ">Configure Disk</b> window and then click <b class="+ topic/ph hi-d/b ">Finish</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Repeat this procedure for all additional disks.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq ">Complete the installation process by following the instructions in “Configuring IBM StoredIQ” on page 22.
+        </postreq>
+    </taskbody>
+</task></concept></map>

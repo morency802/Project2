@@ -989,6 +989,120 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="- map/topicref topicref" css:display="block"
+                                        css:font-weight="bold" css:margin-bottom="0.5em"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_17"
+                                        is-chapter="true" type="concept">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="deploying-ibm-storediq">
+                                            <css:before css:display="inline"/>
+                                            <div appid="deploying-ibm-storediq"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="block" css:link="#unique_17"
+                                                css:text-align-last="justify" href="#unique_17"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_17"><css:text>Chapter
+                                                  </css:text><css:counter name="toc-chapter"
+                                                  value="5"/><css:text>.
+                                                </css:text></css:before>Deploying IBM
+                                                  StoredIQ<css:after css:display="inline"
+                                                  css:link="#unique_17"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_17"
+                                                  /></css:after></div>
+                                            <div class="- map/shortdesc shortdesc"
+                                                css:display="none">IBM StoredIQ is a virtual
+                                                appliance that you deploy and configure in a VMWare
+                                                virtual host environment.</div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_18" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="deploying-virtual-appliances">
+                                                <css:before css:display="inline"/>
+                                                <div appid="deploying-virtual-appliances"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_18"
+                                                  css:text-align-last="justify" href="#unique_18"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_18"/>Deploying the virtual
+                                                  appliances<css:after css:display="inline"
+                                                  css:link="#unique_18"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_18"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none"/>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_19" type="task">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="deploying-ibmstorediq-ms-hv">
+                                                <css:before css:display="inline"/>
+                                                <div appid="deploying-ibmstorediq-ms-hv"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_19"
+                                                  css:text-align-last="justify" href="#unique_19"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_19"/>Deploying IBM StoredIQ on
+                                                  Microsoft Hyper-V<css:after css:display="inline"
+                                                  css:link="#unique_19"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_19"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">As an alternative to installing
+                                                  on an ESX server, the IBM StoredIQ gateway, data
+                                                  server, and application stack can be installed on
+                                                  Microsoft Hyper-V. This option is not supported
+                                                  for the Elasticsearch virtual appliance. </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -2700,7 +2814,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1022"
+                                                  css:table-layout="auto" frame="all" id="d30e1055"
                                                   rowsep="1">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
@@ -2734,7 +2848,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1022__entry__1">Port
+                                                  id="unique_10__d30e1055__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -2745,7 +2859,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1022__entry__2">Protocol</th>
+                                                  id="unique_10__d30e1055__entry__2">Protocol</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -2763,7 +2877,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1022__entry__1 ">22</td>
+                                                  headers="unique_10__d30e1055__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2774,7 +2888,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1022__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -2789,7 +2903,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1022__entry__1 ">80</td>
+                                                  headers="unique_10__d30e1055__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2800,7 +2914,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1022__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -2815,7 +2929,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1022__entry__1 ">443</td>
+                                                  headers="unique_10__d30e1055__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2826,7 +2940,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1022__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
                                                   </tr>
                                                   </tbody>
                                                 </table>
@@ -2848,7 +2962,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1080">
+                                                  css:table-layout="auto" frame="all" id="d30e1113">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -2887,7 +3001,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1080__entry__1">Port
+                                                  id="unique_10__d30e1113__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -2898,7 +3012,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1080__entry__2">Protocol</th>
+                                                  id="unique_10__d30e1113__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2908,7 +3022,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1080__entry__3">Service</th>
+                                                  id="unique_10__d30e1113__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -2926,7 +3040,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1080__entry__1 ">22</td>
+                                                  headers="unique_10__d30e1113__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2937,7 +3051,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1080__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2948,7 +3062,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1080__entry__3 "
+                                                  headers="unique_10__d30e1113__entry__3 "
                                                   >PROD-ssh</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
@@ -2964,7 +3078,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1080__entry__1 ">80</td>
+                                                  headers="unique_10__d30e1113__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2975,7 +3089,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1080__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2986,7 +3100,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1080__entry__3 "
+                                                  headers="unique_10__d30e1113__entry__3 "
                                                   >PROD-web</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
@@ -3002,7 +3116,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1080__entry__1 ">443</td>
+                                                  headers="unique_10__d30e1113__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3013,7 +3127,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1080__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3024,7 +3138,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1080__entry__3 ">tcp</td>
+                                                  headers="unique_10__d30e1113__entry__3 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -3041,7 +3155,7 @@
                                                   css:table-column-span="1" css:table-row="4"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1080__entry__1 "
+                                                  headers="unique_10__d30e1113__entry__1 "
                                                   nameend="col1" namest="col1">1103</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3054,7 +3168,7 @@
                                                   css:table-row="4" css:table-row-span="2"
                                                   css:vertical-align="top" dita-ot:x="2"
                                                   dita-ot:y="5"
-                                                  headers="unique_10__d30e1080__entry__2 "
+                                                  headers="unique_10__d30e1113__entry__2 "
                                                   morerows="1" rowspan="2">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3067,7 +3181,7 @@
                                                   css:table-row="4" css:table-row-span="2"
                                                   css:vertical-align="top" dita-ot:x="3"
                                                   dita-ot:y="5"
-                                                  headers="unique_10__d30e1080__entry__3 "
+                                                  headers="unique_10__d30e1113__entry__3 "
                                                   morerows="1" rowspan="2">PROD-transport (IBM
                                                   StoredIQ transport services; communication between
                                                   the gateway and the data server) </td>
@@ -3087,7 +3201,7 @@
                                                   css:table-column-span="1" css:table-row="5"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1080__entry__1 "
+                                                  headers="unique_10__d30e1113__entry__1 "
                                                   nameend="col1" namest="col1">1104</td>
                                                   </tr>
                                                   </tbody>
@@ -3194,7 +3308,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1249">
+                                                  css:table-layout="auto" frame="all" id="d30e1282">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -3233,7 +3347,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1249__entry__1">Port
+                                                  id="unique_10__d30e1282__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3242,7 +3356,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1249__entry__2">Protocol</th>
+                                                  id="unique_10__d30e1282__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3250,7 +3364,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1249__entry__3">Service</th>
+                                                  id="unique_10__d30e1282__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -3271,7 +3385,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1249__entry__1 ">21</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">21</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3283,7 +3397,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3295,7 +3409,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1249__entry__3 ">ftp</td>
+                                                  headers="unique_10__d30e1282__entry__3 ">ftp</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3313,7 +3427,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1249__entry__1 ">22</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3325,7 +3439,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3337,7 +3451,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1249__entry__3 ">sshd</td>
+                                                  headers="unique_10__d30e1282__entry__3 ">sshd</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3355,7 +3469,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1249__entry__1 ">80</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3367,7 +3481,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3379,7 +3493,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1249__entry__3 "/>
+                                                  headers="unique_10__d30e1282__entry__3 "/>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3397,7 +3511,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1249__entry__1 ">443</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3409,7 +3523,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="5"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3421,7 +3535,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="5"
-                                                  headers="unique_10__d30e1249__entry__3 "/>
+                                                  headers="unique_10__d30e1282__entry__3 "/>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3439,7 +3553,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1249__entry__1 ">8888</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">8888</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3451,7 +3565,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="6"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3463,7 +3577,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="6"
-                                                  headers="unique_10__d30e1249__entry__3 "
+                                                  headers="unique_10__d30e1282__entry__3 "
                                                   >SimpleHTTPServer (used for copying the <code
                                                   class="+ topic/ph pr-d/codeph ph codeph"
                                                   css:display="inline" css:font-family="monospace"
@@ -3489,7 +3603,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="7"
-                                                  headers="unique_10__d30e1249__entry__1 ">9200</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">9200</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3501,7 +3615,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="7"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp6</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp6</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3513,7 +3627,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="7"
-                                                  headers="unique_10__d30e1249__entry__3 "
+                                                  headers="unique_10__d30e1282__entry__3 "
                                                   ><p class="- topic/lines lines" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" xml:space="preserve">docker-proxy (listening for REST requests)</p>
                                                   You can restrict access to this port by either
                                                   enabling Search Guard or by setting up a firewall.
@@ -3535,7 +3649,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="8"
-                                                  headers="unique_10__d30e1249__entry__1 ">9300</td>
+                                                  headers="unique_10__d30e1282__entry__1 ">9300</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3544,7 +3658,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="8"
-                                                  headers="unique_10__d30e1249__entry__2 ">tcp6</td>
+                                                  headers="unique_10__d30e1282__entry__2 ">tcp6</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3553,7 +3667,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="8"
-                                                  headers="unique_10__d30e1249__entry__3 "
+                                                  headers="unique_10__d30e1282__entry__3 "
                                                   >docker-proxy (internode communication) </td>
                                                   </tr>
                                                   </tbody>
@@ -3579,7 +3693,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1378">
+                                                  css:table-layout="auto" frame="all" id="d30e1411">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -3618,7 +3732,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1378__entry__1">Port
+                                                  id="unique_10__d30e1411__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3627,7 +3741,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1378__entry__2">Protocol</th>
+                                                  id="unique_10__d30e1411__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3635,7 +3749,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1378__entry__3">Service</th>
+                                                  id="unique_10__d30e1411__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -3656,7 +3770,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1378__entry__1 ">22</td>
+                                                  headers="unique_10__d30e1411__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3668,7 +3782,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1378__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3680,7 +3794,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1378__entry__3 "
+                                                  headers="unique_10__d30e1411__entry__3 "
                                                   >PROD-ssh</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3699,7 +3813,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1378__entry__1 ">80</td>
+                                                  headers="unique_10__d30e1411__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3711,7 +3825,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1378__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3723,7 +3837,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1378__entry__3 "
+                                                  headers="unique_10__d30e1411__entry__3 "
                                                   >PROD-web</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3742,7 +3856,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1378__entry__1 ">443</td>
+                                                  headers="unique_10__d30e1411__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3754,7 +3868,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1378__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3766,7 +3880,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1378__entry__3 "
+                                                  headers="unique_10__d30e1411__entry__3 "
                                                   >PROD-https (UI and Web Services APIs)</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3785,7 +3899,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1378__entry__1 ">5432</td>
+                                                  headers="unique_10__d30e1411__entry__1 ">5432</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3797,7 +3911,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="5"
-                                                  headers="unique_10__d30e1378__entry__2 ">tcp</td>
+                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3809,7 +3923,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="5"
-                                                  headers="unique_10__d30e1378__entry__3 "
+                                                  headers="unique_10__d30e1411__entry__3 "
                                                   >PROD-postgres</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3830,7 +3944,7 @@
                                                   css:table-column-span="1" css:table-row="5"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">5434</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3844,7 +3958,7 @@
                                                   css:table-row="5" css:table-row-span="6"
                                                   css:vertical-align="top" dita-ot:x="2"
                                                   dita-ot:y="6"
-                                                  headers="unique_10__d30e1378__entry__2 "
+                                                  headers="unique_10__d30e1411__entry__2 "
                                                   morerows="5" rowspan="6">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3858,7 +3972,7 @@
                                                   css:table-row="5" css:table-row-span="6"
                                                   css:vertical-align="top" dita-ot:x="3"
                                                   dita-ot:y="6"
-                                                  headers="unique_10__d30e1378__entry__3 "
+                                                  headers="unique_10__d30e1411__entry__3 "
                                                   morerows="5" rowspan="6">PROD-transport (IBM
                                                   StoredIQ transport services; communication between
                                                   the gateway and the data server)</td>
@@ -3881,7 +3995,7 @@
                                                   css:table-column-span="1" css:table-row="6"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="7"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">8765</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3902,7 +4016,7 @@
                                                   css:table-column-span="1" css:table-row="7"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="8"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">7766</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3923,7 +4037,7 @@
                                                   css:table-column-span="1" css:table-row="8"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="9"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">11102</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3944,7 +4058,7 @@
                                                   css:table-column-span="1" css:table-row="9"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="10"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">11103</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3962,7 +4076,7 @@
                                                   css:table-column-span="1" css:table-row="10"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="11"
-                                                  headers="unique_10__d30e1378__entry__1 "
+                                                  headers="unique_10__d30e1411__entry__1 "
                                                   nameend="col1" namest="col1">11104</td>
                                                   </tr>
                                                   </tbody>
@@ -4602,20 +4716,20 @@
                                                 format, where new metric records are appended to the
                                                 end of the file:
                                                 <pre class="+ topic/pre pr-d/codeblock pre codeblock" css:background-color="rgb(238 , 238 , 238)" css:display="block" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="0.5em" css:margin-left="0.5em" css:margin-right="0" css:margin-top="0.5em" css:max-height="600px" css:oxy-pdf-tag-type="Code" css:padding-bottom="0.5em" css:padding-left="0.5em" css:padding-right="0.5em" css:padding-top="0.5em" css:white-space="pre-wrap" xml:space="preserve"><code css:display="inline" css:font-family="monospace" css:font-size="smaller">&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
-            &lt;SoftwareIdentity&gt;                   
-                    &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
-                    &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
-                    &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
-            &lt;/SoftwareIdentity&gt;
-            &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
-                    &lt;Type&gt;TERABYTE&lt;/Type&gt;    
-                    &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
-                    &lt;Value&gt;0.005&lt;/Value&gt;
-                    &lt;Period&gt;                
-                           &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
-                           &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
-                    &lt;/Period&gt; 
-             &lt;/Metric&gt;</code></pre>
+        &lt;SoftwareIdentity&gt;                   
+               &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
+               &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
+               &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
+        &lt;/SoftwareIdentity&gt;
+        &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
+               &lt;Type&gt;TERABYTE&lt;/Type&gt;    
+               &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
+               &lt;Value&gt;0.005&lt;/Value&gt;
+               &lt;Period&gt;                
+                        &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
+                        &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
+               &lt;/Period&gt; 
+         &lt;/Metric&gt;</code></pre>
                                             </div>
                                             <p class="- topic/p p" css:display="block"
                                                 css:margin-bottom="0.5em" css:margin-left="0"
@@ -5371,6 +5485,859 @@
                                                   </tbody>
                                                 </table>
                                             </section>
+                                        </div>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+    <css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px"
+            xtrf="file:/C:/Users/moren/Desktop/XML%20Class/PROJECT2/project02-morency/project02-morency.ditamap">
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarch:ditaarchversion="1.3"
+                                domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
+                                lang="en" xml:lang="en">
+                                <article aria-labelledby="ariaid-title17" break-before="true"
+                                    class="- topic/topic concept/concept topic concept nested0"
+                                    css:display="block" css:margin-top="1em"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_17" is-chapter="true"
+                                    nd:nd-id="deploying-ibm-storediq" oid="deploying-ibm-storediq"
+                                    topicrefclass="- map/topicref ">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="block"
+                                        css:font-size="2em" css:margin-bottom="1em"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0"
+                                        css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
+                                        id="ariaid-title17"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="5"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                                ><css:text>Chapter </css:text><css:counter
+                                                name="chapter" value="5"/><css:text>.
+                                            </css:text></css:before>Deploying IBM StoredIQ</h1>
+                                    <div class="- topic/body concept/conbody body conbody"
+                                        css:display="block" css:margin-bottom="0"
+                                        css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0.5em">IBM StoredIQ
+                                            is a virtual appliance that you deploy and configure in
+                                            a VMWare virtual host environment.</p>
+                                        <p class="- topic/p p" css:display="block"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0.5em"/>
+                                    </div>
+                                    <article aria-labelledby="ariaid-title18"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_18" nd:nd-id="deploying-virtual-appliances"
+                                        oid="deploying-virtual-appliances"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title18"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Deploying the virtual
+                                            appliances</h2>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em"/>
+                                            <section
+                                                class="- topic/section task/prereq section prereq"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> Use
+                                                  VMware vSphere Client to deploy the virtual
+                                                  appliances to an ESX server. Deploy OVAs for the
+                                                  gateway, the data server, and the application
+                                                  stack, preferably in this order. If an
+                                                  Elasticsearch cluster is also being deployed,
+                                                  those OVAs must be deployed first. </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  Ensure that all prerequisites for the deployment
+                                                  described in the planning section are met and that
+                                                  the required software packages are available on
+                                                  your local system before you start this task. </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  Download the latest version of IBM StoredIQ from
+                                                  either IBM Fix Central or IBM Passport Advantage®.
+                                                  For information about the package names and part
+                                                  numbers and the links to the proper download
+                                                  locations, see the download document. </p>
+                                            </section>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> The
+                                                  number of Elasticsearch OVAs deployed depends on
+                                                  the planned size of your Elasticsearch cluster.
+                                                  The default setup is a three-node cluster. Each
+                                                  Elasticsearch node requires a separate OVA
+                                                  deployment. </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"> The
+                                                  number of data server OVAs deployed depends on the
+                                                  number of data servers needed. Each data server
+                                                  requires a separate OVA deployment. </p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Connect to the ESX server or
+                                                  vCenter server.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Open VMware vSphere Client.
+                                                  </span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">File
+                                                  &gt; Deploy OVF Template</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Deploy
+                                                  OVF Template</strong> wizard, complete these
+                                                  steps.</span>
+                                                  <ol class="- topic/ol task/substeps ol substeps"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" type="a">
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  source</strong> page, click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Local
+                                                  file</strong>, and then browse to and select the
+                                                  appropriate OVF. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Review
+                                                  details</strong> page, review the OVF template
+                                                  details. </span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block">These storage requirements are
+                                                  critical and will be used to select a data store
+                                                  during deployment. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong> to proceed. </div>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  name and folder</strong> page, enter a name for
+                                                  the deployed template or use the default name.
+                                                  Click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  a resource</strong> page, select the resource pool
+                                                  where the deployed OVF template runs. Click
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Select
+                                                  storage</strong> page, select a data store on
+                                                  which to store the deployed OVF template files.
+                                                  Click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Disk
+                                                  Format</strong> list, select the disk format to be
+                                                  deployed. Note that although <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Thin
+                                                  Provision</strong> saves disk space, it can
+                                                  negatively affect performance. If possible, select
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Thick
+                                                  Provision Lazy Zeroed</strong>. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Network Mapping</strong>, map the network to the
+                                                  appropriate network. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/substep li substep substepexpand"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-bottom="1em" css:margin-left="2em"
+                                                  css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Within the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Ready
+                                                  to Complete</strong> page, review the deployment
+                                                  settings. Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Finish</strong> to complete the Deploy OVF
+                                                  Template. </span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">At
+                                                  this point, you can select the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Power
+                                                  on</strong> check box to turn on the VM after
+                                                  deployment is complete. </p>
+                                                  <div class="- topic/p p" css:display="block">
+                                                  <table border="1"
+                                                  class="+ topic/note hazard-d/hazardstatement note hazardstatement"
+                                                  css:border-bottom-style="solid"
+                                                  css:border-bottom-width="1px"
+                                                  css:border-collapse="collapse"
+                                                  css:border-left-style="solid"
+                                                  css:border-left-width="1px"
+                                                  css:border-right-style="solid"
+                                                  css:border-right-width="1px"
+                                                  css:border-top-style="solid"
+                                                  css:border-top-width="1px" css:display="table"
+                                                  css:margin-bottom="1em" css:margin-top="1em"
+                                                  css:oxy-pdf-tag-type="Note"
+                                                  css:table-layout="auto" role="presentation"
+                                                  type="important">
+                                                  <tbody css:display="table-row-group">
+                                                  <tr css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <th class="hazardstatement--important" colspan="2"
+                                                  css:display="table-cell" css:font-weight="bold"
+                                                  css:table-column="0" css:table-column-span="2"
+                                                  css:table-row="0" css:text-align="center"
+                                                  >Important</th>
+                                                  </tr>
+                                                  <tr css:display="table-row"
+                                                  css:vertical-align="middle">
+                                                  <td css:display="table-cell" css:table-column="0"
+                                                  css:table-row="1">
+                                                  <svg xmlns="http://www.w3.org/2000/svg"
+                                                  xmlns:cc="http://creativecommons.org/ns#"
+                                                  xmlns:dc="http://purl.org/dc/elements/1.1/"
+                                                  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                                                  xmlns:svg="http://www.w3.org/2000/svg"
+                                                  class="hazardsymbol" height="4em" version="1.1"
+                                                  viewBox="0 0 600 525">
+                                                  <metadata>
+                                                  <rdf:RDF>
+                                                  <cc:Work rdf:about="">
+                                                  <dc:format>image/svg+xml</dc:format>
+                                                  <dc:type
+                                                  rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                                                  <dc:title/>
+                                                  </cc:Work>
+                                                  </rdf:RDF>
+                                                  </metadata>
+                                                  <defs>
+                                                  <path
+                                                  d="M 2.8117,-1.046 A 3,3 0 0 1 0.5,2.958 V 4.5119 A 10.5,10.5 0 0 1 2,25.3078 v 0.5583 A 15,15 0 0 0 14.7975,8.5433 15,15 0 0 0 23.4007,-11.201 l -0.4835,0.2792 A 10.5,10.5 0 0 1 4.1574,-1.8229 z m 3.4148,8.871 a 10,10 0 0 1 -12.453,0 9.5,9.5 0 0 0 -2.1756,2.7417 13.5,13.5 0 0 0 16.8042,0 A 10,10 0 0 0 6.2265,7.825 z"
+                                                  transform="matrix(10,0,0,-10,260,260)"/>
+                                                  </defs>
+                                                  <path
+                                                  d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 h 567.6 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"/>
+                                                  <polygon
+                                                  points="43.875,491.5 299.875,48.2 555.875,491.5 "
+                                                  style="fill:#f6bd16;fill-opacity:1;stroke:none;overflow:visible"
+                                                  transform="matrix(1,0,0,0.99591458,0.125,2.0332437)"/>
+                                                  <path
+                                                  d="m -384.00937,417.52725 a 38.151581,36.156727 0 1 1 -76.30316,0 38.151581,36.156727 0 1 1 76.30316,0 z"
+                                                  style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.62514842;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0.4;stroke-dasharray:none;stroke-dashoffset:0"
+                                                  transform="matrix(0.99319888,0,0,1.0479962,719.28979,-2.9357862)"/>
+                                                  <path
+                                                  d="m 300,168.60074 c -20.64745,0 -37.26716,16.97292 -37.26716,38.05658 l 11.01897,133.31318 c 2.10449,17.24457 3.90184,27.0149 11.01898,31.60966 4.64712,2.1172 9.79468,3.32214 15.22921,3.32214 5.40832,0 10.53383,-1.1913 15.16343,-3.28925 7.15697,-4.58178 8.97556,-14.35941 11.08476,-31.64255 l 11.01898,-133.31318 c 0,-21.08366 -16.61973,-38.05658 -37.26717,-38.05658 z"
+                                                  style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+                                                  />
+                                                  </svg>
+                                                  </td>
+                                                  <td css:display="table-cell" css:table-column="1"
+                                                  css:table-row="1">
+                                                  <div
+                                                  class="+ topic/ul hazard-d/messagepanel ul messagepanel"
+                                                  css:display="block">
+                                                  <div
+                                                  class="+ topic/li hazard-d/typeofhazard li typeofhazard"
+                                                  css:display="block"> </div>
+                                                  <div
+                                                  class="+ topic/li hazard-d/howtoavoid li howtoavoid"
+                                                  css:display="block">
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Important:</strong>If your IBM StoredIQ
+                                                  environment includes an Elasticsearch cluster, do
+                                                  not select this option when you're deploying the
+                                                  data server OVA. The Elasticsearch cluster setup
+                                                  must be complete before you run the data server
+                                                  first-boot process. </div>
+                                                  </div>
+                                                  </td>
+                                                  </tr>
+                                                  </tbody>
+                                                  </table>
+                                                  </div>
+                                                  </div>
+                                                  </li>
+                                                  </ol>
+                                                  </li>
+                                                  <li class="- topic/li task/step li step"
+                                                  css:display="list-item" css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Repeat steps 3 and 4 for
+                                                  each OVA. </span>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                            <section
+                                                class="- topic/section task/postreq section postreq"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <div class="- topic/p p" css:display="block"
+                                                  >Configure the components of your IBM StoredIQ
+                                                  environment in this order: <ol
+                                                  class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Elasticsearch cluster (if
+                                                  applicable) </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Gateway</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">One or more data servers </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Application stack </li>
+                                                  </ol>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title19"
+                                        class="- topic/topic task/task topic task nested1"
+                                        css:display="block" css:oxy-pdf-tag-type="Sect"
+                                        id="unique_19" nd:nd-id="deploying-ibmstorediq-ms-hv"
+                                        oid="deploying-ibmstorediq-ms-hv"
+                                        topicrefclass="- map/topicref ">
+                                        <h2 class="- topic/title title topictitle2"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:display="block" css:font-size="1.7em"
+                                            css:margin-bottom="0.5em" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="1.5em"
+                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
+                                            id="ariaid-title19"><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Deploying IBM StoredIQ on
+                                            Microsoft Hyper-V</h2>
+                                        <div class="- topic/body task/taskbody body taskbody"
+                                            css:display="block" css:margin-bottom="0"
+                                            css:margin-left="0" css:margin-right="0"
+                                            css:margin-top="0">
+                                            <p class="- topic/shortdesc shortdesc"
+                                                css:display="block" css:margin-bottom="0.5em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0.5em">As an alternative to
+                                                installing on an ESX server, the IBM StoredIQ
+                                                gateway, data server, and application stack can be
+                                                installed on Microsoft Hyper-V. This option is not
+                                                supported for the Elasticsearch virtual appliance. </p>
+                                            <section
+                                                class="- topic/section task/prereq section prereq"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Installing IBM StoredIQ on Microsoft Hyper-V
+                                                  requires the use of third-party software. For the
+                                                  procedure described here, the following software
+                                                  prerequisites must be met: </p>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Microsoft Hyper-V Manager
+                                                  must be installed on a Windows system.</li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">7-zip for Windows or tar for
+                                                  the Linux operating system must be available to
+                                                  extract contents of the OVA. </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">7-zip for Windows or gunzip
+                                                  for the Linux operating system must be installed
+                                                  to decompress the vmdk.gz file. </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em"> Microsoft Virtual Machine
+                                                  Converter 3.0 (Windows) or qemu-img (Linux) or
+                                                  must be installed to convert the files from VMWare
+                                                  .vmdk files to Hyper-V .vhdx files. </li>
+                                                </ul>
+                                            </section>
+                                            <section
+                                                class="- topic/section task/context section context"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Microsoft Hyper-V does not support OVAs and OVFs.
+                                                  The virtual machine needs to be built manually. </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Consider the following instructions a sample
+                                                  procedure. The instructions might differ depending
+                                                  on the version of the third-party software. </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em"
+                                                  >Complete these steps for the gateway, the data
+                                                  server, and the AppStack: </p>
+                                            </section>
+                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
+                                                <ol class="- topic/ol task/steps ol steps"
+                                                  css:display="block" css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline"> Extract the vmdk file from
+                                                  the OVA. </span>
+                                                  <ol class="- topic/ol task/substeps ol substeps"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" type="a">
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Download the OVA. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Extract the contents of the
+                                                  OVA by using 7-zip for Windows or tar for the
+                                                  Linux operating system. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Decompress the <code
+                                                  class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">vmdk.gz</code> archive
+                                                  by using 7-zip for Windows or gunzip for Linux.
+                                                  </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Delete everything except the
+                                                  <code class="+ topic/ph pr-d/codeph ph codeph"
+                                                  css:display="inline" css:font-family="monospace"
+                                                  css:font-size="smaller"
+                                                  css:oxy-pdf-tag-type="Code">vmdk</code> file when
+                                                  the OVA extraction is complete. </span>
+                                                  </li>
+                                                  </ol>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Convert the VMWare .vmdk file
+                                                  to a Microsoft Hyper-V .vhdx file.</span>
+                                                  <div
+                                                  class="- topic/itemgroup task/info itemgroup info"
+                                                  css:display="block"> For instructions about
+                                                  converting .vmdk files to .vhdx files, see the
+                                                  following links: <ul class="- topic/ul ul"
+                                                  css:display="block" css:list-style-type="disc"
+                                                  css:margin-bottom="0em" css:margin-top="0em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Use Microsoft Virtual
+                                                  Machine Converter </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">Using qemu-img</li>
+                                                  </ul>
+                                                  </div>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Build a virtual
+                                                  machine.</span>
+                                                  <ol class="- topic/ol task/substeps ol substeps"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" type="a">
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">New
+                                                  Virtual Machine &gt; Next</strong> from Hyper-V
+                                                  Manager. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Enter the name of the virtual
+                                                  machine in the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Specify Name and Location</strong> window and
+                                                  click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Generation of the machine</strong> in the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Specify Generation</strong> window.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Enter the startup memory in
+                                                  the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Assign
+                                                  Memory</strong> window.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select the correct network in
+                                                  the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Configure Network</strong> window and click
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Use an
+                                                  existing virtual hard disk</strong> in the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Connect Virtual Hard Disk</strong> window. Search
+                                                  the disk location, select one of the primary
+                                                  disks, and then click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Finish</strong>. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Repeat these previous steps
+                                                  for all IBM StoredIQ disks. </span>
+                                                  </li>
+                                                  </ol>
+                                                  </li>
+                                                  <li
+                                                  class="- topic/li task/step li step stepexpand"
+                                                  css:display="list-item" css:margin-bottom="1em"
+                                                  css:margin-left="2em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Optional: Add disks. </span>
+                                                  <ol class="- topic/ol task/substeps ol substeps"
+                                                  css:display="block" css:margin-bottom="0em"
+                                                  css:margin-top="0em" type="a">
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select a virtual machine in
+                                                  Microsoft Hyper-V Manager. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select the settings for the
+                                                  virtual machine under <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Actions</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select the IDE controller and
+                                                  highlight Hard Drive in the <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Settings</strong> window.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select Hard Drive and virtual
+                                                  hard disk and click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >New</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong> in the New Virtual Hard Disk
+                                                  wizard. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >VHDX</strong> in Choose Disk Format and then
+                                                  click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Dynamically expanding</strong> in Choose Disk
+                                                  Type and then click <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>. </span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Enter a name for the disk in
+                                                  the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Specify Name and Location</strong> window and the
+                                                  click <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Next</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Select <strong
+                                                  class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">Create
+                                                  a new blank virtual hard disk</strong> and enter a
+                                                  size in the <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Configure Disk</strong> window and then click
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold"
+                                                  >Finish</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep"
+                                                  css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <span class="- topic/ph task/cmd ph cmd"
+                                                  css:display="inline">Repeat this procedure for all
+                                                  additional disks.</span>
+                                                  </li>
+                                                  </ol>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                            <section
+                                                class="- topic/section task/postreq section postreq"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
+                                                >Complete the installation process by following the
+                                                instructions in “Configuring IBM StoredIQ” on page
+                                                22. </section>
                                         </div>
                                     </article>
                                 </article>

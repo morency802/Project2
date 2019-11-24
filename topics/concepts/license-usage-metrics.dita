@@ -14,21 +14,21 @@
             is created. A maximum of 10 log files are kept. </p>
         <p>The .slmtag file contains usage information in the following format, where new metric records are appended to the end of the file:
         
-            <codeblock>&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
-            &lt;SoftwareIdentity&gt;                   
-                    &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
-                    &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
-                    &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
-            &lt;/SoftwareIdentity&gt;
-            &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
-                    &lt;Type&gt;TERABYTE&lt;/Type&gt;    
-                    &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
-                    &lt;Value&gt;0.005&lt;/Value&gt;
-                    &lt;Period&gt;                
-                           &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
-                           &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
-                    &lt;/Period&gt; 
-             &lt;/Metric&gt;</codeblock>
+        <codeblock>&lt;SchemaVersion&gt;2.1.1&lt;/SchemaVersion&gt;
+        &lt;SoftwareIdentity&gt;                   
+               &lt;PersistentId&gt;cb98e260a2a14872902578de1b8e2016&lt;/PersistentId&gt;       
+               &lt;Name&gt;IBM StoredIQ Data Assessment&lt;/Name&gt;
+               &lt;InstanceId&gt;/var/siq/ilmt&lt;/InstanceId&gt; 
+        &lt;/SoftwareIdentity&gt;
+        &lt;Metric logTime="2019-01-25T15:58:26+00:00"&gt;              
+               &lt;Type&gt;TERABYTE&lt;/Type&gt;    
+               &lt;SubType&gt;All Data Objects&lt;/SubType&gt;              
+               &lt;Value&gt;0.005&lt;/Value&gt;
+               &lt;Period&gt;                
+                        &lt;StartTime&gt;2019-01-25T15:58:26+00:00&lt;/StartTime&gt;                    
+                        &lt;EndTime&gt;2019-01-25T15:58:26+00:00&lt;/EndTime&gt;             
+               &lt;/Period&gt; 
+         &lt;/Metric&gt;</codeblock>
         </p>
         <p><b>Integration with IBM License Metric Tool </b></p>
         <p>

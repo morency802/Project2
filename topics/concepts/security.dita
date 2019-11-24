@@ -41,7 +41,7 @@
         </p>
         <p>
             If FIPS is not enabled, the following cipher suites and encryption algorithm are used for data at rest: 
-            <lines>TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 
+                  <lines>TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 
                    TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256</lines>
             You can configure these cipher suites in the configuration files listed in the list of key and certificate files. However, if you run the utilities 
             for enabling stunnel, you might need to make the respective configuration changes again. 

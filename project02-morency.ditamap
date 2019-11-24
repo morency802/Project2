@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title></title>
-    <mapref href="maps/conkeyref-content.ditamap" format="ditamap"></mapref>
-    <topicref href="maps/hazards.ditamap" format="ditamap"></topicref>
+    <title>IBM StoredIQ: Deployment and Configuration Guide</title>
+    <mapref href="maps/conkeyref-content.ditamap" format="ditamap"/>
     <topicref href="topics/concepts/cover.dita"/>
     <topicref href="topics/concepts/about-this-publication.dita">
         <topicref href="topics/references/ibm-storediq-product-library.dita"/>
-        <topicref href="topics/tasks/contacting-ibm.dita"/>
+        <topicref href="topics/concepts/contacting-ibm-storediq-cs.dita">
+            <topicref toc="no" href="topics/concepts/contacting-ibm.dita"/>
+        </topicref>
     </topicref>
     <topicref href="topics/concepts/ibm-storediq-components.dita">
         <topicref href="topics/concepts/solution-components.dita"/>
@@ -15,13 +16,15 @@
     </topicref>
     <topicref href="topics/concepts/planning-for-deployment.dita">
         <topicref href="topics/references/ova-config-requirements.dita"/>
-        <topicref href="topics/references/network-port-requirements.dita"/>
-        <topicref toc="no" href="topics/tasks/opening-ports-ova.dita"/>
+        <topicref href="topics/references/network-port-requirements.dita">
+             <topicref toc="no" href="topics/tasks/opening-ports-ova.dita"/>
+        </topicref>
         <topicref href="topics/references/environment-sizing-guidelines.dita"/>
         <topicref href="topics/references/stack-provisioning-prereqs.dita"/>
         <topicref href="topics/concepts/license-usage-metrics.dita"/>
-        <topicref href="topics/concepts/security.dita"/>
-        <topicref toc="no" href="topics/references/default-user-accounts.dita"/>
+        <topicref href="topics/concepts/security.dita">
+             <topicref toc="no" href="topics/references/default-user-accounts.dita"/>
+        </topicref>
     </topicref>
     <topicref href="topics/concepts/deploying-ibm-storediq.dita">
         <topicref href="topics/tasks/deploying-virtual-appliances.dita"/>

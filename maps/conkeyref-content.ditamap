@@ -2,5 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title></title>
-    <keydef keys="screenshots" href="../topics/references/conkeyref-content.dita"></keydef>
+    <keydef keys="screenshots" href="../topics/references/images-for-reuse.dita"></keydef>
+    <keydef keys="externalrefs" href="../topics/references/external-resources.dita"></keydef>
+    <keydef keys="hazstmt" href="../topics/concepts/hazard.dita"></keydef>
 </map>

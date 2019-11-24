@@ -410,18 +410,14 @@
                                         css:font-size="2em" css:font-weight="bold"
                                         css:margin-top="3in" css:text-align="center">
                                         <div class="- topic/title title" css:bookmark-level="1"
-                                            css:display="block" css:page-break-after="avoid">
-                                            <css:string-set name="maptitle">
-                                                <css:content source="text"/>
-                                            </css:string-set>
-                                            <css:bookmark-label>
-                                                <css:content source="before"/>
-                                                <css:content source="text"/>
-                                            </css:bookmark-label>
-                                            <css:oxy-pdf-meta-title>
-                                                <css:content source="text"/>
-                                            </css:oxy-pdf-meta-title>
-                                        </div>
+                                            css:display="block" css:page-break-after="avoid"
+                                                ><css:string-set name="maptitle"><css:content
+                                                  source="text"
+                                                  /></css:string-set><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label><css:oxy-pdf-meta-title><css:content
+                                                  source="text"/></css:oxy-pdf-meta-title>IBM
+                                            StoredIQ: Deployment and Configuration Guide</div>
                                     </div>
                                 </div>
                             </div>
@@ -459,7 +455,8 @@
                                         </css:bookmark-label>
                                     </div>
                                     <div class="- topic/title title" css:display="none"
-                                        css:page-break-after="avoid"/>
+                                        css:page-break-after="avoid">IBM StoredIQ: Deployment and
+                                        Configuration Guide</div>
                                     <div class="- map/topicref topicref" css:display="block"
                                         css:font-weight="bold" css:margin-bottom="0.5em"
                                         css:margin-left="0" css:margin-top="0.5em" href="#unique_1"
@@ -576,7 +573,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_4" type="task">
+                                            href="#unique_4" type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -590,9 +587,9 @@
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
                                                 css:padding-right="0" css:padding-top="0"
-                                                data-topic-id="contacting-ibm">
+                                                data-topic-id="contacting-ibm-storediq-cs">
                                                 <css:before css:display="inline"/>
-                                                <div appid="contacting-ibm"
+                                                <div appid="contacting-ibm-storediq-cs"
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
@@ -600,7 +597,7 @@
                                                   css:text-align-last="justify" href="#unique_4"
                                                   ><css:before css:display="inline"
                                                   css:link="#unique_4"/>Contacting IBM StoredIQ
-                                                  customer support<css:after css:display="inline"
+                                                  Customer Service<css:after css:display="inline"
                                                   css:link="#unique_4"><css:leader pattern="."
                                                   /><css:target-counter url-fragment="unique_4"
                                                   /></css:after></div>
@@ -611,7 +608,7 @@
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block"
                                         css:font-weight="bold" css:margin-bottom="0.5em"
-                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_5"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_6"
                                         is-chapter="true" type="concept">
                                         <div class="- map/topicmeta topicmeta"
                                             css:border-bottom-color="transparent"
@@ -632,15 +629,15 @@
                                                 class="- topic/resourceid resourceid"
                                                 css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#unique_5"
-                                                css:text-align-last="justify" href="#unique_5"
+                                                css:display="block" css:link="#unique_6"
+                                                css:text-align-last="justify" href="#unique_6"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_5"><css:text>Chapter
+                                                  css:link="#unique_6"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="3"/><css:text>. </css:text></css:before>IBM
                                                 StoredIQ components<css:after css:display="inline"
-                                                  css:link="#unique_5"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_5"
+                                                  css:link="#unique_6"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_6"
                                                   /></css:after></div>
                                             <div class="- map/shortdesc shortdesc"
                                                 css:display="none">The IBM StoredIQ solution
@@ -651,7 +648,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_6" type="concept">
+                                            href="#unique_7" type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -671,13 +668,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_6"
-                                                  css:text-align-last="justify" href="#unique_6"
+                                                  css:display="block" css:link="#unique_7"
+                                                  css:text-align-last="justify" href="#unique_7"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_6"/>Solution
+                                                  css:link="#unique_7"/>Solution
                                                   components<css:after css:display="inline"
-                                                  css:link="#unique_6"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_6"
+                                                  css:link="#unique_7"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_7"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none"> IBM StoredIQ provides three
@@ -688,7 +685,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_7" type="concept">
+                                            href="#unique_8" type="concept">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -708,13 +705,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_7"
-                                                  css:text-align-last="justify" href="#unique_7"
+                                                  css:display="block" css:link="#unique_8"
+                                                  css:text-align-last="justify" href="#unique_8"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_7"/>Applications of IBM
+                                                  css:link="#unique_8"/>Applications of IBM
                                                   StoredIQ<css:after css:display="inline"
-                                                  css:link="#unique_7"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_7"
+                                                  css:link="#unique_8"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_8"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">IBM StoredIQ provides interface
@@ -725,7 +722,7 @@
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block"
                                         css:font-weight="bold" css:margin-bottom="0.5em"
-                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_8"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_9"
                                         is-chapter="true" type="concept">
                                         <div class="- map/topicmeta topicmeta"
                                             css:border-bottom-color="transparent"
@@ -746,16 +743,16 @@
                                                 class="- topic/resourceid resourceid"
                                                 css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#unique_8"
-                                                css:text-align-last="justify" href="#unique_8"
+                                                css:display="block" css:link="#unique_9"
+                                                css:text-align-last="justify" href="#unique_9"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_8"><css:text>Chapter
+                                                  css:link="#unique_9"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="4"/><css:text>.
                                                 </css:text></css:before>Planning for
                                                   deployment<css:after css:display="inline"
-                                                  css:link="#unique_8"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_8"
+                                                  css:link="#unique_9"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_9"
                                                   /></css:after></div>
                                             <div class="- map/shortdesc shortdesc"
                                                 css:display="none">When you plan a deployment of IBM
@@ -765,7 +762,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_9" type="reference">
+                                            href="#unique_10" type="reference">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -785,14 +782,14 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_9"
-                                                  css:text-align-last="justify" href="#unique_9"
+                                                  css:display="block" css:link="#unique_10"
+                                                  css:text-align-last="justify" href="#unique_10"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_9"/>Open Virtual Appliance (OVA)
-                                                  configuration requirements<css:after
-                                                  css:display="inline" css:link="#unique_9"
+                                                  css:link="#unique_10"/>Open Virtual Appliance
+                                                  (OVA) configuration requirements<css:after
+                                                  css:display="inline" css:link="#unique_10"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="unique_9"/></css:after></div>
+                                                  url-fragment="unique_10"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">IBM StoredIQ is deployed as
                                                   virtual appliances and is supported in VMware ESXi
@@ -805,7 +802,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_10" type="reference">
+                                            href="#unique_11" type="reference">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -825,57 +822,18 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_10"
-                                                  css:text-align-last="justify" href="#unique_10"
+                                                  css:display="block" css:link="#unique_11"
+                                                  css:text-align-last="justify" href="#unique_11"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_10"/>Network and port
+                                                  css:link="#unique_11"/>Network and port
                                                   requirements<css:after css:display="inline"
-                                                  css:link="#unique_10"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_10"
+                                                  css:link="#unique_11"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_11"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">For proper communication, the
                                                   IBM StoredIQ components must be able to connect to
                                                   each other. </div>
-                                            </div>
-                                        </div>
-                                        <div class="- map/topicref topicref" css:display="block"
-                                            css:font-weight="normal" css:margin-bottom="0.5em"
-                                            css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_12" type="reference">
-                                            <div class="- map/topicmeta topicmeta"
-                                                css:border-bottom-color="transparent"
-                                                css:border-bottom-style="none"
-                                                css:border-left-color="transparent"
-                                                css:border-left-style="none"
-                                                css:border-right-color="transparent"
-                                                css:border-right-style="none"
-                                                css:border-top-color="transparent"
-                                                css:border-top-style="none" css:display="block"
-                                                css:margin-bottom="0" css:margin-left="0"
-                                                css:margin-right="0" css:margin-top="0"
-                                                css:padding-bottom="0" css:padding-left="0"
-                                                css:padding-right="0" css:padding-top="0"
-                                                data-topic-id="environment-sizing-guidelines">
-                                                <css:before css:display="inline"/>
-                                                <div appid="environment-sizing-guidelines"
-                                                  class="- topic/resourceid resourceid"
-                                                  css:display="none" oxy-source="topic"/>
-                                                <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_12"
-                                                  css:text-align-last="justify" href="#unique_12"
-                                                  ><css:before css:display="inline"
-                                                  css:link="#unique_12"/>Environment sizing
-                                                  guidelines<css:after css:display="inline"
-                                                  css:link="#unique_12"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_12"
-                                                  /></css:after></div>
-                                                <div class="- map/shortdesc shortdesc"
-                                                  css:display="none">To size an environment
-                                                  precisely, you must understand the factors such as
-                                                  harvest frequency, complexity of the source, and
-                                                  use case scenarios that drive application use and
-                                                  action execution. </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
@@ -895,29 +853,32 @@
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
                                                 css:padding-right="0" css:padding-top="0"
-                                                data-topic-id="stack-provisioning-prereqs">
+                                                data-topic-id="environment-sizing-guidelines">
                                                 <css:before css:display="inline"/>
-                                                <div appid="stack-provisioning-prereqs"
+                                                <div appid="environment-sizing-guidelines"
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
                                                   css:display="block" css:link="#unique_13"
                                                   css:text-align-last="justify" href="#unique_13"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_13"/>Stack-provisioning
-                                                  prerequisites<css:after css:display="inline"
+                                                  css:link="#unique_13"/>Environment sizing
+                                                  guidelines<css:after css:display="inline"
                                                   css:link="#unique_13"><css:leader pattern="."
                                                   /><css:target-counter url-fragment="unique_13"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
-                                                  css:display="none">Before a deployment, verify
-                                                  that you meet these prerequisites. </div>
+                                                  css:display="none">To size an environment
+                                                  precisely, you must understand the factors such as
+                                                  harvest frequency, complexity of the source, and
+                                                  use case scenarios that drive application use and
+                                                  action execution. </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_14" type="concept">
+                                            href="#unique_14" type="reference">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -931,24 +892,23 @@
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
                                                 css:padding-right="0" css:padding-top="0"
-                                                data-topic-id="license-usage-metrics">
+                                                data-topic-id="stack-provisioning-prereqs">
                                                 <css:before css:display="inline"/>
-                                                <div appid="license-usage-metrics"
+                                                <div appid="stack-provisioning-prereqs"
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
                                                   css:display="block" css:link="#unique_14"
                                                   css:text-align-last="justify" href="#unique_14"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_14"/>License usage
-                                                  metrics<css:after css:display="inline"
+                                                  css:link="#unique_14"/>Stack-provisioning
+                                                  prerequisites<css:after css:display="inline"
                                                   css:link="#unique_14"><css:leader pattern="."
                                                   /><css:target-counter url-fragment="unique_14"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
-                                                  css:display="none">Using the IBM License Metric
-                                                  Tool, you can generate license consumption reports
-                                                  that count IBM StoredIQ license usage. </div>
+                                                  css:display="none">Before a deployment, verify
+                                                  that you meet these prerequisites. </div>
                                             </div>
                                         </div>
                                         <div class="- map/topicref topicref" css:display="block"
@@ -968,19 +928,56 @@
                                                 css:margin-right="0" css:margin-top="0"
                                                 css:padding-bottom="0" css:padding-left="0"
                                                 css:padding-right="0" css:padding-top="0"
-                                                data-topic-id="security">
+                                                data-topic-id="license-usage-metrics">
                                                 <css:before css:display="inline"/>
-                                                <div appid="security"
+                                                <div appid="license-usage-metrics"
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
                                                   css:display="block" css:link="#unique_15"
                                                   css:text-align-last="justify" href="#unique_15"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_15"/>Security<css:after
-                                                  css:display="inline" css:link="#unique_15"
+                                                  css:link="#unique_15"/>License usage
+                                                  metrics<css:after css:display="inline"
+                                                  css:link="#unique_15"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_15"
+                                                  /></css:after></div>
+                                                <div class="- map/shortdesc shortdesc"
+                                                  css:display="none">Using the IBM License Metric
+                                                  Tool, you can generate license consumption reports
+                                                  that count IBM StoredIQ license usage. </div>
+                                            </div>
+                                        </div>
+                                        <div class="- map/topicref topicref" css:display="block"
+                                            css:font-weight="normal" css:margin-bottom="0.5em"
+                                            css:margin-left="2em" css:margin-top="0.5em"
+                                            href="#unique_16" type="concept">
+                                            <div class="- map/topicmeta topicmeta"
+                                                css:border-bottom-color="transparent"
+                                                css:border-bottom-style="none"
+                                                css:border-left-color="transparent"
+                                                css:border-left-style="none"
+                                                css:border-right-color="transparent"
+                                                css:border-right-style="none"
+                                                css:border-top-color="transparent"
+                                                css:border-top-style="none" css:display="block"
+                                                css:margin-bottom="0" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0"
+                                                css:padding-bottom="0" css:padding-left="0"
+                                                css:padding-right="0" css:padding-top="0"
+                                                data-topic-id="security">
+                                                <css:before css:display="inline"/>
+                                                <div appid="security"
+                                                  class="- topic/resourceid resourceid"
+                                                  css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle"
+                                                  css:display="block" css:link="#unique_16"
+                                                  css:text-align-last="justify" href="#unique_16"
+                                                  ><css:before css:display="inline"
+                                                  css:link="#unique_16"/>Security<css:after
+                                                  css:display="inline" css:link="#unique_16"
                                                   ><css:leader pattern="."/><css:target-counter
-                                                  url-fragment="unique_15"/></css:after></div>
+                                                  url-fragment="unique_16"/></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">Plan and implement specific
                                                   security measures to protect the application and
@@ -991,7 +988,7 @@
                                     </div>
                                     <div class="- map/topicref topicref" css:display="block"
                                         css:font-weight="bold" css:margin-bottom="0.5em"
-                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_17"
+                                        css:margin-left="0" css:margin-top="0.5em" href="#unique_18"
                                         is-chapter="true" type="concept">
                                         <div class="- map/topicmeta topicmeta"
                                             css:border-bottom-color="transparent"
@@ -1012,16 +1009,16 @@
                                                 class="- topic/resourceid resourceid"
                                                 css:display="none" oxy-source="topic"/>
                                             <div class="- topic/navtitle navtitle"
-                                                css:display="block" css:link="#unique_17"
-                                                css:text-align-last="justify" href="#unique_17"
+                                                css:display="block" css:link="#unique_18"
+                                                css:text-align-last="justify" href="#unique_18"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_17"><css:text>Chapter
+                                                  css:link="#unique_18"><css:text>Chapter
                                                   </css:text><css:counter name="toc-chapter"
                                                   value="5"/><css:text>.
                                                 </css:text></css:before>Deploying IBM
                                                   StoredIQ<css:after css:display="inline"
-                                                  css:link="#unique_17"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_17"
+                                                  css:link="#unique_18"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_18"
                                                   /></css:after></div>
                                             <div class="- map/shortdesc shortdesc"
                                                 css:display="none">IBM StoredIQ is a virtual
@@ -1031,7 +1028,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_18" type="task">
+                                            href="#unique_19" type="task">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -1051,13 +1048,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_18"
-                                                  css:text-align-last="justify" href="#unique_18"
+                                                  css:display="block" css:link="#unique_19"
+                                                  css:text-align-last="justify" href="#unique_19"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_18"/>Deploying the virtual
+                                                  css:link="#unique_19"/>Deploying the virtual
                                                   appliances<css:after css:display="inline"
-                                                  css:link="#unique_18"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_18"
+                                                  css:link="#unique_19"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_19"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none"/>
@@ -1066,7 +1063,7 @@
                                         <div class="- map/topicref topicref" css:display="block"
                                             css:font-weight="normal" css:margin-bottom="0.5em"
                                             css:margin-left="2em" css:margin-top="0.5em"
-                                            href="#unique_19" type="task">
+                                            href="#unique_20" type="task">
                                             <div class="- map/topicmeta topicmeta"
                                                 css:border-bottom-color="transparent"
                                                 css:border-bottom-style="none"
@@ -1086,13 +1083,13 @@
                                                   class="- topic/resourceid resourceid"
                                                   css:display="none" oxy-source="topic"/>
                                                 <div class="- topic/navtitle navtitle"
-                                                  css:display="block" css:link="#unique_19"
-                                                  css:text-align-last="justify" href="#unique_19"
+                                                  css:display="block" css:link="#unique_20"
+                                                  css:text-align-last="justify" href="#unique_20"
                                                   ><css:before css:display="inline"
-                                                  css:link="#unique_19"/>Deploying IBM StoredIQ on
+                                                  css:link="#unique_20"/>Deploying IBM StoredIQ on
                                                   Microsoft Hyper-V<css:after css:display="inline"
-                                                  css:link="#unique_19"><css:leader pattern="."
-                                                  /><css:target-counter url-fragment="unique_19"
+                                                  css:link="#unique_20"><css:leader pattern="."
+                                                  /><css:target-counter url-fragment="unique_20"
                                                   /></css:after></div>
                                                 <div class="- map/shortdesc shortdesc"
                                                   css:display="none">As an alternative to installing
@@ -1303,9 +1300,10 @@
                                         </div>
                                     </article>
                                     <article aria-labelledby="ariaid-title4"
-                                        class="- topic/topic task/task topic task nested1"
+                                        class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_4" nd:nd-id="contacting-ibm" oid="contacting-ibm"
+                                        id="unique_4" nd:nd-id="contacting-ibm-storediq-cs"
+                                        oid="contacting-ibm-storediq-cs"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -1316,8 +1314,8 @@
                                             id="ariaid-title4"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Contacting IBM StoredIQ
-                                            customer support</h2>
-                                        <div class="- topic/body task/taskbody body taskbody"
+                                            Customer Service</h2>
+                                        <div class="- topic/body concept/conbody body conbody"
                                             css:display="block" css:margin-bottom="0"
                                             css:margin-left="0" css:margin-right="0"
                                             css:margin-top="0">
@@ -1325,27 +1323,102 @@
                                                 css:display="block" css:margin-bottom="0.5em"
                                                 css:margin-left="0" css:margin-right="0"
                                                 css:margin-top="0.5em"/>
-                                            <section
-                                                class="- topic/section task/context section context"
+                                            <section class="- topic/section section"
                                                 css:display="block" css:margin-bottom="1em"
                                                 css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <div class="- topic/p p" css:display="block">For IBM
+                                                  StoredIQ technical support or to learn about
+                                                  available service options, contact IBM StoredIQ
+                                                  customer support at this phone number: <ul
+                                                  class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">1-866-227-2068</li>
+                                                  </ul> Or, <span class="- topic/ph ph"
+                                                  css:display="inline">see the Contact IBM website
+                                                  at <a class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/contact/us/"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/contact/us/"
+                                                  scope="external" target="_blank"
+                                                  >http://www.ibm.com/contact/us/<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://www.ibm.com/contact/us/"
+                                                  css:text-decoration="underline"/></a>.
+                                                  </span></div>
                                                 <p class="- topic/p p" css:display="block"
                                                   css:margin-bottom="0.5em" css:margin-left="0"
-                                                  css:margin-right="0" css:margin-top="0.5em"/>
-                                            </section>
-                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
-                                                <div class="- topic/li task/step li step p"
-                                                  css:display="block">
-                                                  <span class="- topic/ph task/cmd ph cmd"
-                                                  css:display="inline"/>
-                                                  <br css:display="block">
-                                                  <css:after css:display="inline">
-                                                  <css:text/>
-                                                  </css:after>
-                                                  </br>
-                                                </div>
+                                                  css:margin-right="0" css:margin-top="0.5em">
+                                                  <strong class="+ topic/ph hi-d/b ph b"
+                                                  css:display="inline" css:font-weight="bold">IBM
+                                                  Knowledge Center</strong>
+                                                </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">The
+                                                  IBM StoredIQ <span class="- topic/ph ph"
+                                                  css:display="inline">documentation is available <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/support/knowledgecenter"
+                                                  scope="external" target="_blank">in IBM Knowledge
+                                                  Center.<css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter"
+                                                  css:text-decoration="underline"/></a></span></p>
                                             </section>
                                         </div>
+                                        <article aria-labelledby="ariaid-title5"
+                                            class="- topic/topic concept/concept topic concept nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_5" nd:nd-id="contacting-ibm"
+                                            oid="contacting-ibm" topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title5"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Contacting IBM</h3>
+                                            <div class="- topic/body concept/conbody body conbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em"/>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">For
+                                                  general inquiries, call 800-IBM-4YOU
+                                                  (800-426-4968). To contact IBM customer service in
+                                                  the United States or Canada, call 1-800-IBM-SERV
+                                                  (1-800-426-7378).</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:margin-bottom="0.5em" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0.5em">For
+                                                  more information about how to contact IBM,
+                                                  including TTY service, see the Contact IBM website
+                                                  at <a class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="http://www.ibm.com/contact/us/"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="http://www.ibm.com/contact/us/"
+                                                  scope="external" target="_blank"
+                                                  >http://www.ibm.com/contact/us/<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="http://www.ibm.com/contact/us/"
+                                                  css:text-decoration="underline"/></a>. </p>
+                                            </div>
+                                        </article>
                                     </article>
                                 </article>
                             </div>
@@ -1371,10 +1444,10 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title5" break-before="true"
+                                <article aria-labelledby="ariaid-title6" break-before="true"
                                     class="- topic/topic concept/concept topic concept nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="unique_5" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_6" is-chapter="true"
                                     nd:nd-id="ibm-storediq-components" oid="ibm-storediq-components"
                                     topicrefclass="- map/topicref ">
                                     <h1 class="- topic/title title topictitle1"
@@ -1382,7 +1455,7 @@
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title5"><css:string-set name="chaptertitle"
+                                        id="ariaid-title6"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="3"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -1405,10 +1478,10 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="0.5em"/>
                                     </div>
-                                    <article aria-labelledby="ariaid-title6"
+                                    <article aria-labelledby="ariaid-title7"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_6" nd:nd-id="solution-components"
+                                        id="unique_7" nd:nd-id="solution-components"
                                         oid="solution-components" topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -1416,7 +1489,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title6"><css:bookmark-label><css:content
+                                            id="ariaid-title7"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Solution components</h2>
                                         <div class="- topic/body concept/conbody body conbody"
@@ -1539,10 +1612,10 @@
                                             </dl>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title7"
+                                    <article aria-labelledby="ariaid-title8"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_7" nd:nd-id="applications-of-storediq"
+                                        id="unique_8" nd:nd-id="applications-of-storediq"
                                         oid="applications-of-storediq"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -1551,7 +1624,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title7"><css:bookmark-label><css:content
+                                            id="ariaid-title8"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Applications of IBM
                                             StoredIQ</h2>
@@ -2177,10 +2250,10 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title8" break-before="true"
+                                <article aria-labelledby="ariaid-title9" break-before="true"
                                     class="- topic/topic concept/concept topic concept nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="unique_8" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_9" is-chapter="true"
                                     nd:nd-id="planning-for-deployment" oid="planning-for-deployment"
                                     topicrefclass="- map/topicref ">
                                     <h1 class="- topic/title title topictitle1"
@@ -2188,7 +2261,7 @@
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title8"><css:string-set name="chaptertitle"
+                                        id="ariaid-title9"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="4"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -2214,8 +2287,18 @@
                                                 css:margin-right="0" css:margin-top="0.5em"> In
                                                 addition to the information in this section, review
                                                 the requirements detailed in the IBM Software
-                                                Product Compatibility Reports (SPCR) tool at:
-                                                Software Product Compatibility Reports: StoredIQ 7.6 </p>
+                                                Product Compatibility Reports (SPCR) tool at: <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353"
+                                                  scope="external" target="_blank">Software Product
+                                                  Compatibility Reports: StoredIQ 7.6<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353"
+                                                  css:text-decoration="underline"/></a>
+                                            </p>
                                             <p class="- topic/p p" css:display="block"
                                                 css:margin-bottom="0.5em" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0.5em"> If you
@@ -2223,8 +2306,18 @@
                                                 and Collection to create and manage data boxes and
                                                 data requests that are to be fulfilled by IBM
                                                 StoredIQ, also check the system requirements for
-                                                StoredIQ for Legal at: Software Product
-                                                Compatibility Reports: StoredIQ for Legal 2.0.3 </p>
+                                                StoredIQ for Legal at: <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68"
+                                                  scope="external" target="_blank">Software Product
+                                                  Compatibility Reports: StoredIQ for Legal 2.0.3
+                                                  <css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=8A0331A0C50D11E58D9C0D684F363D68"
+                                                  css:text-decoration="underline"/></a>
+                                            </p>
                                         </section>
                                         <section class="- topic/section section" css:display="block"
                                             css:margin-bottom="1em" css:margin-top="1em"
@@ -2242,15 +2335,24 @@
                                             <p class="- topic/p p" css:display="block"
                                                 css:margin-bottom="0.5em" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0.5em"> Go to
-                                                the page at Software Product Compatibility Reports
-                                                to create a high-level report for supported
-                                                operating systems, related software, hypervisors,
-                                                and supported translations for any product. You can
-                                                also create an in-depth report to get detailed
-                                                system requirements, hardware requirements, and end
-                                                of service information for each product. You can
-                                                search for a product in all of the report types and
-                                                reports are generated based on your query values. </p>
+                                                the page at <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="http://www.ibm.com/software/reports/compatibility/clarity/index.html"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="http://www.ibm.com/software/reports/compatibility/clarity/index.html"
+                                                  scope="external" target="_blank">Software Product
+                                                  Compatibility Reports<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="http://www.ibm.com/software/reports/compatibility/clarity/index.html"
+                                                  css:text-decoration="underline"/></a> to create a
+                                                high-level report for supported operating systems,
+                                                related software, hypervisors, and supported
+                                                translations for any product. You can also create an
+                                                in-depth report to get detailed system requirements,
+                                                hardware requirements, and end of service
+                                                information for each product. You can search for a
+                                                product in all of the report types and reports are
+                                                generated based on your query values. </p>
                                             <div class="- topic/p p" css:display="block"> The
                                                 following report types are the most commonly
                                                 generated reports from software product
@@ -2314,10 +2416,10 @@
                                             </div>
                                         </section>
                                     </div>
-                                    <article aria-labelledby="ariaid-title9"
+                                    <article aria-labelledby="ariaid-title10"
                                         class="- topic/topic reference/reference topic reference nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_9" nd:nd-id="ova-config-requirements"
+                                        id="unique_10" nd:nd-id="ova-config-requirements"
                                         oid="ova-config-requirements"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -2326,7 +2428,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title9"><css:bookmark-label><css:content
+                                            id="ariaid-title10"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Open Virtual Appliance (OVA)
                                             configuration requirements</h2>
@@ -2681,10 +2783,10 @@
                                             </section>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title10"
+                                    <article aria-labelledby="ariaid-title11"
                                         class="- topic/topic reference/reference topic reference nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_10" nd:nd-id="network-port-requirements"
+                                        id="unique_11" nd:nd-id="network-port-requirements"
                                         oid="network-port-requirements"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -2693,7 +2795,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title10"><css:bookmark-label><css:content
+                                            id="ariaid-title11"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Network and port
                                             requirements</h2>
@@ -2814,7 +2916,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1055"
+                                                  css:table-layout="auto" frame="all" id="d30e1116"
                                                   rowsep="1">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
@@ -2848,7 +2950,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1055__entry__1">Port
+                                                  id="unique_11__d30e1116__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -2859,7 +2961,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1055__entry__2">Protocol</th>
+                                                  id="unique_11__d30e1116__entry__2">Protocol</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -2877,7 +2979,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1055__entry__1 ">22</td>
+                                                  headers="unique_11__d30e1116__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2888,7 +2990,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1116__entry__2 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -2903,7 +3005,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1055__entry__1 ">80</td>
+                                                  headers="unique_11__d30e1116__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2914,7 +3016,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1116__entry__2 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -2929,7 +3031,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1055__entry__1 ">443</td>
+                                                  headers="unique_11__d30e1116__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -2940,7 +3042,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1055__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1116__entry__2 ">tcp</td>
                                                   </tr>
                                                   </tbody>
                                                 </table>
@@ -2962,7 +3064,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1113">
+                                                  css:table-layout="auto" frame="all" id="d30e1174">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -3001,7 +3103,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1113__entry__1">Port
+                                                  id="unique_11__d30e1174__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3012,7 +3114,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1113__entry__2">Protocol</th>
+                                                  id="unique_11__d30e1174__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3022,7 +3124,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1113__entry__3">Service</th>
+                                                  id="unique_11__d30e1174__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -3040,7 +3142,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1113__entry__1 ">22</td>
+                                                  headers="unique_11__d30e1174__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3051,7 +3153,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1174__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3062,7 +3164,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1113__entry__3 "
+                                                  headers="unique_11__d30e1174__entry__3 "
                                                   >PROD-ssh</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
@@ -3078,7 +3180,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1113__entry__1 ">80</td>
+                                                  headers="unique_11__d30e1174__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3089,7 +3191,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1174__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3100,7 +3202,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1113__entry__3 "
+                                                  headers="unique_11__d30e1174__entry__3 "
                                                   >PROD-web</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
@@ -3116,7 +3218,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1113__entry__1 ">443</td>
+                                                  headers="unique_11__d30e1174__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3127,7 +3229,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1113__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1174__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1 rowsep-1"
@@ -3138,7 +3240,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1113__entry__3 ">tcp</td>
+                                                  headers="unique_11__d30e1174__entry__3 ">tcp</td>
                                                   </tr>
                                                   <tr class="- topic/row row"
                                                   css:display="table-row"
@@ -3155,7 +3257,7 @@
                                                   css:table-column-span="1" css:table-row="4"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1113__entry__1 "
+                                                  headers="unique_11__d30e1174__entry__1 "
                                                   nameend="col1" namest="col1">1103</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3168,7 +3270,7 @@
                                                   css:table-row="4" css:table-row-span="2"
                                                   css:vertical-align="top" dita-ot:x="2"
                                                   dita-ot:y="5"
-                                                  headers="unique_10__d30e1113__entry__2 "
+                                                  headers="unique_11__d30e1174__entry__2 "
                                                   morerows="1" rowspan="2">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3181,7 +3283,7 @@
                                                   css:table-row="4" css:table-row-span="2"
                                                   css:vertical-align="top" dita-ot:x="3"
                                                   dita-ot:y="5"
-                                                  headers="unique_10__d30e1113__entry__3 "
+                                                  headers="unique_11__d30e1174__entry__3 "
                                                   morerows="1" rowspan="2">PROD-transport (IBM
                                                   StoredIQ transport services; communication between
                                                   the gateway and the data server) </td>
@@ -3201,7 +3303,7 @@
                                                   css:table-column-span="1" css:table-row="5"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1113__entry__1 "
+                                                  headers="unique_11__d30e1174__entry__1 "
                                                   nameend="col1" namest="col1">1104</td>
                                                   </tr>
                                                   </tbody>
@@ -3308,7 +3410,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1282">
+                                                  css:table-layout="auto" frame="all" id="d30e1343">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -3347,7 +3449,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1282__entry__1">Port
+                                                  id="unique_11__d30e1343__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3356,7 +3458,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1282__entry__2">Protocol</th>
+                                                  id="unique_11__d30e1343__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3364,7 +3466,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1282__entry__3">Service</th>
+                                                  id="unique_11__d30e1343__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -3385,7 +3487,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1282__entry__1 ">21</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">21</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3397,7 +3499,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3409,7 +3511,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1282__entry__3 ">ftp</td>
+                                                  headers="unique_11__d30e1343__entry__3 ">ftp</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3427,7 +3529,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1282__entry__1 ">22</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3439,7 +3541,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3451,7 +3553,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1282__entry__3 ">sshd</td>
+                                                  headers="unique_11__d30e1343__entry__3 ">sshd</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3469,7 +3571,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1282__entry__1 ">80</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3481,7 +3583,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3493,7 +3595,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1282__entry__3 "/>
+                                                  headers="unique_11__d30e1343__entry__3 "/>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3511,7 +3613,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1282__entry__1 ">443</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3523,7 +3625,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="5"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3535,7 +3637,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="5"
-                                                  headers="unique_10__d30e1282__entry__3 "/>
+                                                  headers="unique_11__d30e1343__entry__3 "/>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
                                                   css:border-bottom-style="solid"
@@ -3553,7 +3655,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1282__entry__1 ">8888</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">8888</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3565,7 +3667,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="6"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3577,7 +3679,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="5" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="6"
-                                                  headers="unique_10__d30e1282__entry__3 "
+                                                  headers="unique_11__d30e1343__entry__3 "
                                                   >SimpleHTTPServer (used for copying the <code
                                                   class="+ topic/ph pr-d/codeph ph codeph"
                                                   css:display="inline" css:font-family="monospace"
@@ -3603,7 +3705,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="7"
-                                                  headers="unique_10__d30e1282__entry__1 ">9200</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">9200</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3615,7 +3717,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="7"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp6</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp6</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3627,7 +3729,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="6" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="7"
-                                                  headers="unique_10__d30e1282__entry__3 "
+                                                  headers="unique_11__d30e1343__entry__3 "
                                                   ><p class="- topic/lines lines" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" xml:space="preserve">docker-proxy (listening for REST requests)</p>
                                                   You can restrict access to this port by either
                                                   enabling Search Guard or by setting up a firewall.
@@ -3649,7 +3751,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="8"
-                                                  headers="unique_10__d30e1282__entry__1 ">9300</td>
+                                                  headers="unique_11__d30e1343__entry__1 ">9300</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3658,7 +3760,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="8"
-                                                  headers="unique_10__d30e1282__entry__2 ">tcp6</td>
+                                                  headers="unique_11__d30e1343__entry__2 ">tcp6</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3667,7 +3769,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="7" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="8"
-                                                  headers="unique_10__d30e1282__entry__3 "
+                                                  headers="unique_11__d30e1343__entry__3 "
                                                   >docker-proxy (internode communication) </td>
                                                   </tr>
                                                   </tbody>
@@ -3693,7 +3795,7 @@
                                                   css:border-top-color="black"
                                                   css:border-top-style="solid"
                                                   css:border-top-width="1px" css:display="table"
-                                                  css:table-layout="auto" frame="all" id="d30e1411">
+                                                  css:table-layout="auto" frame="all" id="d30e1472">
                                                   <caption css:display="table-caption"
                                                   css:font-weight="bold" css:margin-top="0.5em"
                                                   css:page-break-after="avoid" css:text-align="left">
@@ -3732,7 +3834,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="0" dita-ot:x="1" dita-ot:y="1"
-                                                  id="unique_10__d30e1411__entry__1">Port
+                                                  id="unique_11__d30e1472__entry__1">Port
                                                   number</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3741,7 +3843,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="0" dita-ot:x="2" dita-ot:y="1"
-                                                  id="unique_10__d30e1411__entry__2">Protocol</th>
+                                                  id="unique_11__d30e1472__entry__2">Protocol</th>
                                                   <th
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3749,7 +3851,7 @@
                                                   css:border-right-width="1px"
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="0" dita-ot:x="3" dita-ot:y="1"
-                                                  id="unique_10__d30e1411__entry__3">Service</th>
+                                                  id="unique_11__d30e1472__entry__3">Service</th>
                                                   </tr>
                                                   </thead>
                                                   <tbody class="- topic/tbody tbody"
@@ -3770,7 +3872,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="2"
-                                                  headers="unique_10__d30e1411__entry__1 ">22</td>
+                                                  headers="unique_11__d30e1472__entry__1 ">22</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3782,7 +3884,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="2"
-                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1472__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3794,7 +3896,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="1" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="2"
-                                                  headers="unique_10__d30e1411__entry__3 "
+                                                  headers="unique_11__d30e1472__entry__3 "
                                                   >PROD-ssh</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3813,7 +3915,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="3"
-                                                  headers="unique_10__d30e1411__entry__1 ">80</td>
+                                                  headers="unique_11__d30e1472__entry__1 ">80</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3825,7 +3927,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="3"
-                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1472__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3837,7 +3939,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="2" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="3"
-                                                  headers="unique_10__d30e1411__entry__3 "
+                                                  headers="unique_11__d30e1472__entry__3 "
                                                   >PROD-web</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3856,7 +3958,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="4"
-                                                  headers="unique_10__d30e1411__entry__1 ">443</td>
+                                                  headers="unique_11__d30e1472__entry__1 ">443</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3868,7 +3970,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="4"
-                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1472__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3880,7 +3982,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="3" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="4"
-                                                  headers="unique_10__d30e1411__entry__3 "
+                                                  headers="unique_11__d30e1472__entry__3 "
                                                   >PROD-https (UI and Web Services APIs)</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3899,7 +4001,7 @@
                                                   css:display="table-cell" css:table-column="0"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="1" dita-ot:y="5"
-                                                  headers="unique_10__d30e1411__entry__1 ">5432</td>
+                                                  headers="unique_11__d30e1472__entry__1 ">5432</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3911,7 +4013,7 @@
                                                   css:display="table-cell" css:table-column="1"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="2" dita-ot:y="5"
-                                                  headers="unique_10__d30e1411__entry__2 ">tcp</td>
+                                                  headers="unique_11__d30e1472__entry__2 ">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
                                                   class="- topic/entry entry colsep-1"
@@ -3923,7 +4025,7 @@
                                                   css:display="table-cell" css:table-column="2"
                                                   css:table-row="4" css:vertical-align="top"
                                                   dita-ot:x="3" dita-ot:y="5"
-                                                  headers="unique_10__d30e1411__entry__3 "
+                                                  headers="unique_11__d30e1472__entry__3 "
                                                   >PROD-postgres</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -3944,7 +4046,7 @@
                                                   css:table-column-span="1" css:table-row="5"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="6"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">5434</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3958,7 +4060,7 @@
                                                   css:table-row="5" css:table-row-span="6"
                                                   css:vertical-align="top" dita-ot:x="2"
                                                   dita-ot:y="6"
-                                                  headers="unique_10__d30e1411__entry__2 "
+                                                  headers="unique_11__d30e1472__entry__2 "
                                                   morerows="5" rowspan="6">tcp</td>
                                                   <td
                                                   xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
@@ -3972,7 +4074,7 @@
                                                   css:table-row="5" css:table-row-span="6"
                                                   css:vertical-align="top" dita-ot:x="3"
                                                   dita-ot:y="6"
-                                                  headers="unique_10__d30e1411__entry__3 "
+                                                  headers="unique_11__d30e1472__entry__3 "
                                                   morerows="5" rowspan="6">PROD-transport (IBM
                                                   StoredIQ transport services; communication between
                                                   the gateway and the data server)</td>
@@ -3995,7 +4097,7 @@
                                                   css:table-column-span="1" css:table-row="6"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="7"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">8765</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -4016,7 +4118,7 @@
                                                   css:table-column-span="1" css:table-row="7"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="8"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">7766</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -4037,7 +4139,7 @@
                                                   css:table-column-span="1" css:table-row="8"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="9"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">11102</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -4058,7 +4160,7 @@
                                                   css:table-column-span="1" css:table-row="9"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="10"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">11103</td>
                                                   </tr>
                                                   <tr class="- topic/row row rowsep-1"
@@ -4076,7 +4178,7 @@
                                                   css:table-column-span="1" css:table-row="10"
                                                   css:vertical-align="top" dita-ot:morecols="0"
                                                   dita-ot:x="1" dita-ot:y="11"
-                                                  headers="unique_10__d30e1411__entry__1 "
+                                                  headers="unique_11__d30e1472__entry__1 "
                                                   nameend="col1" namest="col1">11104</td>
                                                   </tr>
                                                   </tbody>
@@ -4115,50 +4217,50 @@
                                                 </div>
                                             </section>
                                         </div>
-                                    </article>
-                                    <article aria-labelledby="ariaid-title11"
-                                        class="- topic/topic task/task topic task nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_11" nd:nd-id="opening-ports-ova"
-                                        oid="opening-ports-ova" topicrefclass="- map/topicref ">
-                                        <h2 class="- topic/title title topictitle2"
-                                            css:bookmark-level="2" css:bookmark-state="closed"
-                                            css:display="block" css:font-size="1.7em"
-                                            css:margin-bottom="0.5em" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="1.5em"
-                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title11">
-                                            <css:bookmark-label>
-                                                <css:content source="before"/>
-                                                <css:content source="text"/>
-                                            </css:bookmark-label>
-                                        </h2>
-                                        <div class="- topic/body task/taskbody body taskbody"
-                                            css:display="block" css:margin-bottom="0"
-                                            css:margin-left="0" css:margin-right="0"
-                                            css:margin-top="0">
-                                            <p class="- topic/shortdesc shortdesc"
-                                                css:display="block" css:margin-bottom="0.5em"
+                                        <article aria-labelledby="ariaid-title12"
+                                            class="- topic/topic task/task topic task nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_12" nd:nd-id="opening-ports-ova"
+                                            oid="opening-ports-ova" topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
                                                 css:margin-left="0" css:margin-right="0"
-                                                css:margin-top="0.5em">
-                                                <strong class="+ topic/ph hi-d/b ph b"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title12">
+                                                <css:bookmark-label>
+                                                  <css:content source="before"/>
+                                                  <css:content source="text"/>
+                                                </css:bookmark-label>
+                                            </h3>
+                                            <div class="- topic/body task/taskbody body taskbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em">
+                                                  <strong class="+ topic/ph hi-d/b ph b"
                                                   css:display="inline" css:font-weight="bold">Open
                                                   ports for desktop client access to the data server
-                                                </strong>
-                                            </p>
-                                            <section
-                                                class="- topic/section task/context section context"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
+                                                  </strong>
+                                                </p>
+                                                <section
+                                                  class="- topic/section task/context section context"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
                                                   css:margin-bottom="0.5em" css:margin-left="0"
                                                   css:margin-right="0" css:margin-top="0.5em">To
                                                   open ports for desktop client access to the data
                                                   server on OVA deployed systems, follow these
                                                   steps: </p>
-                                            </section>
-                                            <section css:display="block" css:oxy-pdf-tag-type="Sect">
-                                                <ol class="- topic/ol task/steps ol steps"
+                                                </section>
+                                                <section css:display="block"
+                                                  css:oxy-pdf-tag-type="Sect">
+                                                  <ol class="- topic/ol task/steps ol steps"
                                                   css:display="block" css:list-style-type="decimal"
                                                   css:margin-bottom="1.33em" css:margin-top="1.33em">
                                                   <li
@@ -4261,14 +4363,15 @@
                                                   ports are open on an upgraded system.</div>
                                                   </div>
                                                   </li>
-                                                </ol>
-                                            </section>
-                                        </div>
+                                                  </ol>
+                                                </section>
+                                            </div>
+                                        </article>
                                     </article>
-                                    <article aria-labelledby="ariaid-title12"
+                                    <article aria-labelledby="ariaid-title13"
                                         class="- topic/topic reference/reference topic reference nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_12" nd:nd-id="environment-sizing-guidelines"
+                                        id="unique_13" nd:nd-id="environment-sizing-guidelines"
                                         oid="environment-sizing-guidelines"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -4277,7 +4380,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title12"><css:bookmark-label><css:content
+                                            id="ariaid-title13"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Environment sizing
                                             guidelines</h2>
@@ -4538,7 +4641,16 @@
                                                   <li class="- topic/li li" css:display="list-item"
                                                   css:margin-left="2em">VMware virtual machine
                                                   hardware version 8.0 or later. For more
-                                                  information, see the VMware product documentation. </li>
+                                                  information, see <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://www.vmware.com/support/pubs/"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.vmware.com/support/pubs/"
+                                                  scope="external" target="_blank">the VMware
+                                                  product documentation<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://www.vmware.com/support/pubs/"
+                                                  css:text-decoration="underline"/></a>. </li>
                                                   <li class="- topic/li li" css:display="list-item"
                                                   css:margin-left="2em">The appropriate VMware
                                                   license to enable the required processor cores and
@@ -4548,10 +4660,10 @@
                                             </section>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title13"
+                                    <article aria-labelledby="ariaid-title14"
                                         class="- topic/topic reference/reference topic reference nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_13" nd:nd-id="stack-provisioning-prereqs"
+                                        id="unique_14" nd:nd-id="stack-provisioning-prereqs"
                                         oid="stack-provisioning-prereqs"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -4560,7 +4672,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title13"><css:bookmark-label><css:content
+                                            id="ariaid-title14"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Stack-provisioning
                                             prerequisites</h2>
@@ -4655,10 +4767,10 @@
                                             </section>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title14"
+                                    <article aria-labelledby="ariaid-title15"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_14" nd:nd-id="license-usage-metrics"
+                                        id="unique_15" nd:nd-id="license-usage-metrics"
                                         oid="license-usage-metrics" topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -4666,7 +4778,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title14"><css:bookmark-label><css:content
+                                            id="ariaid-title15"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>License usage metrics</h2>
                                         <div class="- topic/body concept/conbody body conbody"
@@ -4765,13 +4877,23 @@
                                                 css:margin-bottom="0.5em" css:margin-left="0"
                                                 css:margin-right="0" css:margin-top="0.5em">For more
                                                 information about using IBM License Metric Tool, see
-                                                the IBM License Metric Tool documentation. </p>
+                                                the <a class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter/SS8JFY/lmt_welcome.html?view=kc"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://www.ibm.com/support/knowledgecenter/SS8JFY/lmt_welcome.html?view=kc"
+                                                  scope="external" target="_blank">IBM License
+                                                  Metric Tool documentation.<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://www.ibm.com/support/knowledgecenter/SS8JFY/lmt_welcome.html?view=kc"
+                                                  css:text-decoration="underline"/></a>
+                                            </p>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title15"
+                                    <article aria-labelledby="ariaid-title16"
                                         class="- topic/topic concept/concept topic concept nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_15" nd:nd-id="security" oid="security"
+                                        id="unique_16" nd:nd-id="security" oid="security"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
                                             css:bookmark-level="2" css:bookmark-state="closed"
@@ -4779,7 +4901,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title15"><css:bookmark-label><css:content
+                                            id="ariaid-title16"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Security</h2>
                                         <div class="- topic/body concept/conbody body conbody"
@@ -4956,9 +5078,19 @@
                                                 following administrative accounts are required. The
                                                 builder and siqadmin accounts are IBM
                                                 StoredIQ-specific accounts. For more information
-                                                about these accounts, see “Default user accounts” on
-                                                page 17. <dl class="- topic/dl dl"
-                                                  css:display="block">
+                                                about these accounts, see <a
+                                                  class="- topic/xref xref" css:color="blue"
+                                                  css:display="inline" css:link="#unique_17"
+                                                  css:text-decoration="underline" href="#unique_17"
+                                                  title="IBM StoredIQ comes with a set of default user accounts."
+                                                  type="reference">“Default user accounts”<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="#unique_17"
+                                                  css:text-decoration="underline"><css:text> (on
+                                                  page </css:text><css:target-counter
+                                                  url-fragment="unique_17"
+                                                  /><css:text>)</css:text></css:after></a> on page
+                                                23. <dl class="- topic/dl dl" css:display="block">
                                                   <dt class="- topic/dt dt dlterm"
                                                   css:display="block" css:font-weight="bold"
                                                   css:margin-bottom="0.5em" css:margin-left="1em"
@@ -5051,34 +5183,35 @@
                                                 </dl>
                                             </div>
                                         </div>
-                                    </article>
-                                    <article aria-labelledby="ariaid-title16"
-                                        class="- topic/topic reference/reference topic reference nested1"
-                                        css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_16" nd:nd-id="default-user-accounts"
-                                        oid="default-user-accounts" topicrefclass="- map/topicref ">
-                                        <h2 class="- topic/title title topictitle2"
-                                            css:bookmark-level="2" css:bookmark-state="closed"
-                                            css:display="block" css:font-size="1.7em"
-                                            css:margin-bottom="0.5em" css:margin-left="0"
-                                            css:margin-right="0" css:margin-top="1.5em"
-                                            css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title16"><css:bookmark-label><css:content
-                                                  source="before"/><css:content source="text"
-                                                /></css:bookmark-label>Default user accounts</h2>
-                                        <div class="- topic/body reference/refbody body refbody"
-                                            css:display="block" css:margin-bottom="0"
-                                            css:margin-left="0" css:margin-right="0"
-                                            css:margin-top="0">
-                                            <p class="- topic/shortdesc shortdesc"
-                                                css:display="block" css:margin-bottom="0.5em"
+                                        <article aria-labelledby="ariaid-title17"
+                                            class="- topic/topic reference/reference topic reference nested2"
+                                            css:display="block" css:oxy-pdf-tag-type="Sect"
+                                            id="unique_17" nd:nd-id="default-user-accounts"
+                                            oid="default-user-accounts"
+                                            topicrefclass="- map/topicref ">
+                                            <h3 class="- topic/title title topictitle3"
+                                                css:bookmark-level="3" css:bookmark-state="closed"
+                                                css:display="block" css:font-size="1.4em"
+                                                css:font-weight="300" css:margin-bottom="0.4em"
                                                 css:margin-left="0" css:margin-right="0"
-                                                css:margin-top="0.5em">IBM StoredIQ comes with a set
-                                                of default user accounts. </p>
-                                            <section class="- topic/section section"
-                                                css:display="block" css:margin-bottom="1em"
-                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
-                                                <p class="- topic/p p" css:display="block"
+                                                css:margin-top="1.3em" css:oxy-pdf-tag-type="H3"
+                                                css:page-break-after="avoid" id="ariaid-title17"
+                                                  ><css:bookmark-label><css:content source="before"
+                                                  /><css:content source="text"
+                                                  /></css:bookmark-label>Default user accounts</h3>
+                                            <div class="- topic/body reference/refbody body refbody"
+                                                css:display="block" css:margin-bottom="0"
+                                                css:margin-left="0" css:margin-right="0"
+                                                css:margin-top="0">
+                                                <p class="- topic/shortdesc shortdesc"
+                                                  css:display="block" css:margin-bottom="0.5em"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0.5em">IBM StoredIQ comes with a
+                                                  set of default user accounts. </p>
+                                                <section class="- topic/section section"
+                                                  css:display="block" css:margin-bottom="1em"
+                                                  css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                  <p class="- topic/p p" css:display="block"
                                                   css:margin-bottom="0.5em" css:margin-left="0"
                                                   css:margin-right="0" css:margin-top="0.5em">For
                                                   security reasons, change the passwords for these
@@ -5088,7 +5221,7 @@
                                                   8 to 64 characters long and must contain
                                                   characters from at least three of these
                                                   categories: </p>
-                                                <ul class="- topic/ul ul" css:display="block"
+                                                  <ul class="- topic/ul ul" css:display="block"
                                                   css:list-style-type="disc"
                                                   css:margin-bottom="1.33em" css:margin-top="1.33em">
                                                   <li class="- topic/li li" css:display="list-item"
@@ -5101,8 +5234,8 @@
                                                   <li class="- topic/li li" css:display="list-item"
                                                   css:margin-left="2em">Punctuation marks or special
                                                   characters: . : = * ˆ / $ # _ + @ &amp; % -</li>
-                                                </ul>
-                                                <table
+                                                  </ul>
+                                                  <table
                                                   class="- topic/simpletable simpletable frame-all"
                                                   css:border-bottom-color="black"
                                                   css:border-bottom-style="solid"
@@ -5483,9 +5616,10 @@
                                                   </td>
                                                   </tr>
                                                   </tbody>
-                                                </table>
-                                            </section>
-                                        </div>
+                                                  </table>
+                                                </section>
+                                            </div>
+                                        </article>
                                     </article>
                                 </article>
                             </div>
@@ -5511,10 +5645,10 @@
                                 css:display="block" ditaarch:ditaarchversion="1.3"
                                 domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)"
                                 lang="en" xml:lang="en">
-                                <article aria-labelledby="ariaid-title17" break-before="true"
+                                <article aria-labelledby="ariaid-title18" break-before="true"
                                     class="- topic/topic concept/concept topic concept nested0"
                                     css:display="block" css:margin-top="1em"
-                                    css:oxy-pdf-tag-type="Sect" id="unique_17" is-chapter="true"
+                                    css:oxy-pdf-tag-type="Sect" id="unique_18" is-chapter="true"
                                     nd:nd-id="deploying-ibm-storediq" oid="deploying-ibm-storediq"
                                     topicrefclass="- map/topicref ">
                                     <h1 class="- topic/title title topictitle1"
@@ -5522,7 +5656,7 @@
                                         css:font-size="2em" css:margin-bottom="1em"
                                         css:margin-left="0" css:margin-right="0" css:margin-top="0"
                                         css:oxy-pdf-tag-type="H1" css:page-break-after="avoid"
-                                        id="ariaid-title17"><css:string-set name="chaptertitle"
+                                        id="ariaid-title18"><css:string-set name="chaptertitle"
                                                 ><css:text> | </css:text><css:counter name="chapter"
                                                 value="5"/><css:text> - </css:text><css:content
                                                 source="text"
@@ -5544,10 +5678,10 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="0.5em"/>
                                     </div>
-                                    <article aria-labelledby="ariaid-title18"
+                                    <article aria-labelledby="ariaid-title19"
                                         class="- topic/topic task/task topic task nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_18" nd:nd-id="deploying-virtual-appliances"
+                                        id="unique_19" nd:nd-id="deploying-virtual-appliances"
                                         oid="deploying-virtual-appliances"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -5556,7 +5690,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title18"><css:bookmark-label><css:content
+                                            id="ariaid-title19"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Deploying the virtual
                                             appliances</h2>
@@ -5595,7 +5729,16 @@
                                                   either IBM Fix Central or IBM Passport Advantage®.
                                                   For information about the package names and part
                                                   numbers and the links to the proper download
-                                                  locations, see the download document. </p>
+                                                  locations, see the <a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="http://www.ibm.com/support/docview.wss?uid=ibm10886719"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="http://www.ibm.com/support/docview.wss?uid=ibm10886719"
+                                                  scope="external" target="_blank">download
+                                                  document<css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="http://www.ibm.com/support/docview.wss?uid=ibm10886719"
+                                                  css:text-decoration="underline"/></a>. </p>
                                             </section>
                                             <section
                                                 class="- topic/section task/context section context"
@@ -5933,10 +6076,10 @@
                                             </section>
                                         </div>
                                     </article>
-                                    <article aria-labelledby="ariaid-title19"
+                                    <article aria-labelledby="ariaid-title20"
                                         class="- topic/topic task/task topic task nested1"
                                         css:display="block" css:oxy-pdf-tag-type="Sect"
-                                        id="unique_19" nd:nd-id="deploying-ibmstorediq-ms-hv"
+                                        id="unique_20" nd:nd-id="deploying-ibmstorediq-ms-hv"
                                         oid="deploying-ibmstorediq-ms-hv"
                                         topicrefclass="- map/topicref ">
                                         <h2 class="- topic/title title topictitle2"
@@ -5945,7 +6088,7 @@
                                             css:margin-bottom="0.5em" css:margin-left="0"
                                             css:margin-right="0" css:margin-top="1.5em"
                                             css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"
-                                            id="ariaid-title19"><css:bookmark-label><css:content
+                                            id="ariaid-title20"><css:bookmark-label><css:content
                                                   source="before"/><css:content source="text"
                                                 /></css:bookmark-label>Deploying IBM StoredIQ on
                                             Microsoft Hyper-V</h2>
@@ -6086,10 +6229,28 @@
                                                   css:display="block" css:list-style-type="disc"
                                                   css:margin-bottom="0em" css:margin-top="0em">
                                                   <li class="- topic/li li" css:display="list-item"
-                                                  css:margin-left="2em">Use Microsoft Virtual
-                                                  Machine Converter </li>
+                                                  css:margin-left="2em"><a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://technet.microsoft.com/en-us/library/dn874008%28v=ws.11%29.aspx"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://technet.microsoft.com/en-us/library/dn874008%28v=ws.11%29.aspx"
+                                                  scope="external" target="_blank">Use Microsoft
+                                                  Virtual Machine Converter<css:after
+                                                  css:display="inline" css:font-style="italic"
+                                                  css:link="https://technet.microsoft.com/en-us/library/dn874008%28v=ws.11%29.aspx"
+                                                  css:text-decoration="underline"/></a>
+                                                  </li>
                                                   <li class="- topic/li li" css:display="list-item"
-                                                  css:margin-left="2em">Using qemu-img</li>
+                                                  css:margin-left="2em"><a class="- topic/xref xref"
+                                                  css:color="blue" css:display="inline"
+                                                  css:link="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Virtualization/sect-Virtualization-Tips_and_tricks-Using_qemu_img.html"
+                                                  css:text-decoration="underline" format="html"
+                                                  href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Virtualization/sect-Virtualization-Tips_and_tricks-Using_qemu_img.html"
+                                                  scope="external" target="_blank">Using
+                                                  qemu-img<css:after css:display="inline"
+                                                  css:font-style="italic"
+                                                  css:link="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Virtualization/sect-Virtualization-Tips_and_tricks-Using_qemu_img.html"
+                                                  css:text-decoration="underline"/></a></li>
                                                   </ul>
                                                   </div>
                                                   </li>

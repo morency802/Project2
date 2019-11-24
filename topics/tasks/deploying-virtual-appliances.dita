@@ -17,7 +17,7 @@
             <p>
                 Download the latest version of IBM StoredIQ from either IBM Fix Central or IBM Passport Advantage&#0174;. For 
                 information about the package names and part numbers and the links to the proper download locations, see the 
-                download document. 
+                <xref conkeyref="externalrefs/downloadDoc"></xref>. 
             </p>
         </prereq>
         <context>
@@ -80,7 +80,7 @@
                         </cmd>
                         <info><p>At this point, you can select the <b>Power on</b> check box to turn on the VM after deployment is complete. </p>
                             <p>
-                                <hazardstatement conkeyref="hazards/haz2">
+                                <hazardstatement conkeyref="hazstmt/haz2">
                                     <messagepanel>
                                         <typeofhazard></typeofhazard>
                                         <howtoavoid></howtoavoid>

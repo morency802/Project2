@@ -38,7 +38,7 @@
             for the RVU License Conversion Table specified in the license information (<i>li_languagecode</i> file) that comes with IBM StoredIQ. On 
             the application stack, you can find the license information in the <codeph>License</codeph> directory.
         </p>
-        <p>For more information about using IBM License Metric Tool, see the IBM License Metric Tool documentation.
+        <p>For more information about using IBM License Metric Tool, see the <xref conkeyref="externalrefs/metricTool"></xref>
         </p>
     </conbody>
 </concept>

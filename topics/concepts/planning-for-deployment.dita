@@ -7,18 +7,17 @@
         <section>
         <p>
             In addition to the information in this section, review the requirements detailed in the IBM 
-            Software Product Compatibility Reports (SPCR) tool at: Software Product Compatibility Reports: StoredIQ 7.6
+            Software Product Compatibility Reports (SPCR) tool at: <xref conkeyref="externalrefs/scrSIQ76"></xref>
         </p>
         <p>
             If you plan to use IBM StoredIQ for Legal Identification and Collection to create and manage data boxes and 
             data requests that are to be fulfilled by IBM StoredIQ, also check the system requirements for StoredIQ for Legal 
-            at: Software Product Compatibility Reports: StoredIQ for Legal 2.0.3
-        </p>
+            at: <xref conkeyref="externalrefs/scrSIQlegal"></xref> </p>
         </section>
         <section>
             <title>Generate customized reports with the SPCR tool</title>
             <p>
-                Go to the page at Software Product Compatibility Reports to create a high-level report for supported operating 
+                Go to the page at <xref conkeyref="externalrefs/scr"></xref> to create a high-level report for supported operating 
                 systems, related software, hypervisors, and supported translations for any product. You can also create an 
                 in-depth report to get detailed system requirements, hardware requirements, and end of service information for 
                 each product. You can search for a product in all of the report types and reports are generated based on your query 

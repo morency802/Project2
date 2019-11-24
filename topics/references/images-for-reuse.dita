@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="conkeyref-content">
+<reference id="images-for-reuse">
     <title></title>
     <shortdesc></shortdesc>
     <refbody>
@@ -14,6 +14,5 @@
                 <image id="policymgr" href="../../resources/storediq-policymgr.png"></image>
             </p>
         </section>
-        
     </refbody>
 </reference>

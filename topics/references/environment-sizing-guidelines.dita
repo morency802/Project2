@@ -40,7 +40,7 @@
                 <ul>
                     <li>VMware vSphere v5.0 and fix packs or v6.0 and fix packs. </li>
                     <li>VMware ESXi v5.0 and fix packs, v6.0 and fix packs, or v6.5 and fix packs. </li>
-                    <li>VMware virtual machine hardware version 8.0 or later. For more information, see the VMware product documentation. </li>
+                    <li>VMware virtual machine hardware version 8.0 or later. For more information, see <xref conkeyref="externalrefs/vmWare"></xref>. </li>
                     <li>The appropriate VMware license to enable the required processor cores and memory for the virtual machine.
                     </li>
                 </ul>

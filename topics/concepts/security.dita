@@ -68,7 +68,7 @@
         <p><b>Access control </b></p>
         <p>
             The following administrative accounts are required. The builder and siqadmin accounts are IBM StoredIQ-specific accounts. For more information about these 
-            accounts, see “Default user accounts” on page 17.
+            accounts, see <xref href="../references/default-user-accounts.dita">“Default user accounts”</xref>.
             <dl>
                 <dlentry>
                     <dt><codeph>root</codeph> and <codeph>builder</codeph> accounts on the Elasticsearch cluster nodes </dt>

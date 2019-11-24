@@ -43,8 +43,8 @@
                 <info>
                     For instructions about converting .vmdk files to .vhdx files, see the following links: 
                     <ul>
-                        <li>Use Microsoft Virtual Machine Converter </li>
-                        <li>Using qemu-img</li>
+                        <li><xref conkeyref="externalrefs/msVMConvert"></xref> </li>
+                        <li><xref conkeyref="externalrefs/qemu"></xref></li>
                     </ul>
                 </info>
             </step>

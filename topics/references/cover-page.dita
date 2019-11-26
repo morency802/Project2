@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Anne Morency, Project 2 -->
+<reference id="cover-page">
+   <title>Cover page(s)</title>
+    <shortdesc>Techniques and processes used in completion of Project 2. </shortdesc>
+    <refbody> 
+        <section>
+            <title>Linking</title>
+            <p></p>
+            <dl>
+                <dlentry>
+                    <dt>Hierarchical linking</dt>
+                    <dd>In the main map, I followed the doc to create my overall navigation. The top-level navigation has topics with only one line, in order to match the formatting. I nested content within parent content for navigation, and for topic type or re-use purposes. I set toc=”no” attribute/value to hide topics from TOC where necessary.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>xref</dt>
+                    <dd>I used a direct xref on the <xref href="../concepts/security.dita">Security</xref> page to link to the <xref href="../references/default-user-accounts.dita">Default user accounts</xref> section, and on this page to link to pages I’m referencing. I minimised these in the rest of the doc because links often need to be changed and having them scattered throughout a doc makes this difficult.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>conref</dt>
+                    <dd>I used conref on this page to reuse a phrase. I used conkeyref elsewhere.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>conkeyref</dt>
+                    <dd><p><b>Index:</b>I used this for the Index (concepts/indexTerms.dita).</p>
+                        <p><b>External links/resources:</b>I used an external resources page (references/external-resources.dita) for info/links that point to places outside the doc. This makes it easier to update links in future.</p>
+                        <p><b>Hazard statements:</b>These are located in a single file (concepts/hazard.dita) for ease of access/referencing.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </section>
+        <section>
+            <title>Conditional processing</title>
+            <ul>
+                <li><b>Shows and flags parts of instructions for Deploying Virtual Appliances only, excludes Hyper-V) (ditaval/cond1.ditaval):</b> Displays Deploying virtual appliances, suppresses Hyper-V instructions, flags section for tech support staff</li>
+                <li><b>Shows and flags parts of instructions for Deploying Hyper-V, excludes virtual appliances (ditaval/cond2.ditaval):</b> Displays Hyper-V deployment procedure, suppresses virtual appliances instructions, flags section related to Windows</li>
+                <li><b>Solution Components (ditaval/cond3.ditaval):</b> Excludes Elasticsearch section, highlights rev 2.0 text and IQServer content.</li>
+                <li><b>License Usage Metrics tech writer review flagging (ditaval/cond4.ditaval):</b> Highlights rev 1.0 content, italicizes all content for tech writer, highlights content for review by SME (expert). (revprop tag does not allow for exclusion of content) </li>
+            </ul>
+        </section>
+        <section>
+            <title>Topic type choices</title>
+            <p>Following are places I was unsure of topic type, and how/why I chose the topic I did.</p>
+            <ul>
+                <li><p><b>Contact IBM sections</b>(<xref href="../concepts/contacting-ibm-storediq-cs.dita">Contacting IBM StoredIQ CS</xref> and <xref href="../concepts/contacting-ibm.dita">Contacting IBM</xref>):</p> 
+                    <p><ph id="conceptChoice">I chose concept (vs task) because the language is not as direct as (I think) it would be in a task.</ph> Contacting IBM is a separate topic because it is something that might be commonly reused.</p>
+                </li>
+                <li><p><b>Planning for deployment</b> (<xref href="../concepts/planning-for-deployment.dita">Planning for deployment</xref>):</p>
+                    <p><ph conref="cover-page.dita#cover-page/conceptChoice"></ph>It contains explanations mixed in with procedural info, rather than clearly delineated steps. </p>
+                </li>
+                <li><p><b>License usage metrics &amp; Security</b> (<xref href="../concepts/license-usage-metrics.dita">License usage metrics</xref> and <xref href="../concepts/security.dita">Security</xref>):</p>
+                    <p>I chose concept because while these sections might be used for reference, they contain a lot of explanatory language that makes for difficult quick referencing. I appended <xref href="../references/default-user-accounts.dita">Default 
+                        user accounts</xref> as a reference child topic of Security; it fits the criteria for a reference topic and could be re-used in other documentation in this format. </p>
+                </li>    
+            </ul>        
+        </section>
+        <section>
+            <title>Other</title>
+            <ul>
+                <li>I put each topic’s intro content in &lt;shortdesc&gt; wherever appropriate, as it makes the content more suitable for reuse on the internet.</li>
+                <li>The <xref href="../tasks/opening-ports-ova.dita">opening ports task</xref> has no title only because the subhead appeared to large in the layout. If I had authored this doc myself, I would have put a title in.</li>
+                <li>I realised too late that my re-used content should be in a separate folder; I don't want to move things around at this stage, but will know for again.</li>                
+                <li>Hazard statements render very poorly in my pdf transformation, but I kept them in to demonstrate conkeyref.</li>
+            </ul>
+        </section>
+        <section>
+            <title>REFERENCES</title>
+            <dl>
+                <dlentry>
+                    <dt></dt>
+                    <dd>International Business Machines Corporation, 2001, 2019, <i>IBM StoredIQ Deployment and Configuration Guide,</i> IBM Corp.</dd>
+                </dlentry>
+            </dl>
+            <p>Further info (some of which contained in metadata as well):</p>
+            <dl>
+                <dlentry>
+                    <dt></dt>
+                    <dd>
+                        <p>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications until otherwise indicated in new editions.</p>
+                        <p>&#169;Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            
+        </section>
+    </refbody>
+</reference>

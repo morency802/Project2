@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Anne Morency, Project 2 -->
 <val>
-    <!-- Show and hightlight instructions for Deploying Hyper-V but not virtual appliances -->
+    <!-- Show, and flag parts of, instructions for Deploying Hyper-V (excludes virtual appliances) -->
     <prop action="exclude" att="platform" val="esx-server"/>
     <prop action="flag" att="audience" val="techsupport"  color="red"></prop>
     <prop action="flag" att="platform" val="windows" style="italics"></prop>

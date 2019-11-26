@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Anne Morency, Project 2 -->
 <reference id="environment-sizing-guidelines">
     <title>Environment sizing guidelines</title>
     <shortdesc>To size an environment precisely, you must understand the factors such as harvest frequency, complexity of the source, and use case scenarios that drive application use and action execution. </shortdesc>

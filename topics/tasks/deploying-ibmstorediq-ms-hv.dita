@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- Anne Morency, Project 2 -->
 <task id="deploying-ibmstorediq-ms-hv">
     <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
     <shortdesc>As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application 

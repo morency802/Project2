@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Anne Morency, Project 2 -->
 <concept id="indexTerms">
     <title></title>
     <shortdesc></shortdesc>
@@ -53,6 +54,7 @@
                 </indexterm>
             </keywords>
             <keywords id="inPlanDep">
+                <indexterm>SPCR tool</indexterm>
                 <indexterm>
                     compatibility reports 
                     <index-see>SPCR tool</index-see>

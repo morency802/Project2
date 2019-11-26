@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Anne Morency, Project 2 -->
 <concept id="planning-for-deployment">
     <title>Planning for deployment</title>
     <shortdesc>When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations. </shortdesc>

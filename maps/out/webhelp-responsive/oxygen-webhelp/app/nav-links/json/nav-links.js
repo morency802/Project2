@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">IBM Terms</span>","topics" : [{"title":"Glossary","href":"..\/topics\/glossary\/glossary.html#applicationStack","menu": {"hasChildren":true,},"tocID":"tocId-d62e11","next":"tocId-d62e11",}]});

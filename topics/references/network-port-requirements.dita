@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Anne Morency, Project 2 -->
 <reference id="network-port-requirements">
     <title>Network and port requirements</title>
     <shortdesc>For proper communication, the IBM StoredIQ components must be able to connect to each other. </shortdesc>

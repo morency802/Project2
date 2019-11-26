@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Anne Morency, Project 2 -->
 <concept id="ibm-storediq-components">
     <title>IBM StoredIQ components</title>
     <shortdesc>The IBM StoredIQ solution consists of these components: the application stack, the gateway, the data server, and optionally the Elasticsearch cluster.</shortdesc>
-       
     <conbody>
-        
-        <p></p>
     </conbody>
 </concept>

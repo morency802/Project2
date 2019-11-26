@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Anne Morency, Project 2 -->
 <val>
     <!-- Solution Components - Excluding Elasticsearch, highlighting rev 2.0 and iqServer content-->
     <prop action="exclude" att="product" val="Elasticsearch"/>

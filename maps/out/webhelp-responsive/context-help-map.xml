@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="applicationStack"
+               path="../topics/glossary/glossary.html#applicationStack"/>
+   <appContext helpID="autoclassification"
+               path="../topics/glossary/glossary.html#autoclassification"/>
+   <appContext helpID="cartridges" path="../topics/glossary/glossary.html#cartridges"/>
+   <appContext helpID="connectorApiSdk"
+               path="../topics/glossary/glossary.html#connectorApiSdk"/>
+   <appContext helpID="dataServers"
+               path="../topics/glossary/glossary.html#dataServers"/>
+   <appContext helpID="dataserverClassic"
+               path="../topics/glossary/glossary.html#dataserverClassic"/>
+   <appContext helpID="dataserverDistributed"
+               path="../topics/glossary/glossary.html#dataserverDistributed"/>
+   <appContext helpID="gateway" path="../topics/glossary/glossary.html#gateway"/>
+   <appContext helpID="storediqInsights"
+               path="../topics/glossary/glossary.html#storediqInsights"/>
+</map>

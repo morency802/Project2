@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<!-- Anne Morency, Project 2 -->
+<map> 
     <title>IBM StoredIQ: Deployment and Configuration Guide</title>
+    <topicmeta>
+            <copyright id="ibmCopy">
+                <copyryear year="2001,2019"/>
+                <copyrholder>
+                    International Business Machines Corporation 2001, 2019.
+                </copyrholder>
+            </copyright>
+            <metadata>
+                <prodinfo>
+                    <prodname>StoredIQ</prodname>
+                    <vrmlist>
+                        <vrm version=" 7.6.0.19 "/>
+                    </vrmlist>
+                    <featnum>5724M86 </featnum>
+                </prodinfo>
+            </metadata>
+    </topicmeta>
+    
     <mapref href="maps/conkeyref-content.ditamap" format="ditamap"/>
-    <topicref href="topics/concepts/cover.dita"/>
+    <topicref href="topics/references/cover-page.dita"/>
     <topicref href="topics/concepts/about-this-publication.dita">
         <topicref href="topics/references/ibm-storediq-product-library.dita"/>
         <topicref href="topics/concepts/contacting-ibm-storediq-cs.dita">
@@ -30,4 +49,5 @@
         <topicref platform="esx-server" href="topics/tasks/deploying-virtual-appliances.dita"/>
         <topicref platform="hyper-v" href="topics/tasks/deploying-ibmstorediq-ms-hv.dita"/>
     </topicref>
+    <mapref href="maps/glossary.ditamap" format="ditamap"></mapref>
 </map>

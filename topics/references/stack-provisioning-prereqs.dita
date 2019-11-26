@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- Anne Morency, Project 2 -->
 <reference id="stack-provisioning-prereqs">
     <title>Stack-provisioning prerequisites</title>
     <shortdesc>Before a deployment, verify that you meet these prerequisites. </shortdesc>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="cover" path="topics/concepts/cover.html"/>
+   <appContext helpID="about-this-publication"
+               path="topics/concepts/about-this-publication.html"/>
+   <appContext helpID="ibm-storediq-product-library"
+               path="topics/references/ibm-storediq-product-library.html"/>
+   <appContext helpID="contacting-ibm-storediq-cs"
+               path="topics/concepts/contacting-ibm-storediq-cs.html"/>
+   <appContext helpID="contacting-ibm" path="topics/concepts/contacting-ibm.html"/>
+   <appContext helpID="ibm-storediq-components"
+               path="topics/concepts/ibm-storediq-components.html"/>
+   <appContext helpID="solution-components"
+               path="topics/concepts/solution-components.html"/>
+   <appContext helpID="applications-of-storediq"
+               path="topics/concepts/applications-of-storediq.html"/>
+   <appContext helpID="planning-for-deployment"
+               path="topics/concepts/planning-for-deployment.html"/>
+   <appContext helpID="ova-config-requirements"
+               path="topics/references/ova-config-requirements.html"/>
+   <appContext helpID="network-port-requirements"
+               path="topics/references/network-port-requirements.html"/>
+   <appContext helpID="opening-ports-ova" path="topics/tasks/opening-ports-ova.html"/>
+   <appContext helpID="environment-sizing-guidelines"
+               path="topics/references/environment-sizing-guidelines.html"/>
+   <appContext helpID="stack-provisioning-prereqs"
+               path="topics/references/stack-provisioning-prereqs.html"/>
+   <appContext helpID="license-usage-metrics"
+               path="topics/concepts/license-usage-metrics.html"/>
+   <appContext helpID="security" path="topics/concepts/security.html"/>
+   <appContext helpID="default-user-accounts"
+               path="topics/references/default-user-accounts.html"/>
+   <appContext helpID="deploying-ibm-storediq"
+               path="topics/concepts/deploying-ibm-storediq.html"/>
+   <appContext helpID="deploying-virtual-appliances"
+               path="topics/tasks/deploying-virtual-appliances.html"/>
+</map>

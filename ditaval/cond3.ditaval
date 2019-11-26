@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- Solution Components - Excluding Elasticsearch, highlighting rev 2.0 and iqServer content-->
+    <prop action="exclude" att="product" val="Elasticsearch"/>
+    <prop action="include" att="platform" val="hyper-v"></prop>
+    <prop action="flag" att="product" val="iqServer" backcolor="yellow"/>
+    <revprop action="flag" val="2.0" style="italics"></revprop>
+    
+</val>

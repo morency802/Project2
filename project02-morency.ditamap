@@ -27,7 +27,7 @@
         </topicref>
     </topicref>
     <topicref href="topics/concepts/deploying-ibm-storediq.dita">
-        <topicref href="topics/tasks/deploying-virtual-appliances.dita"/>
-        <topicref href="topics/tasks/deploying-ibmstorediq-ms-hv.dita"/>
+        <topicref platform="esx-server" href="topics/tasks/deploying-virtual-appliances.dita"/>
+        <topicref platform="hyper-v" href="topics/tasks/deploying-ibmstorediq-ms-hv.dita"/>
     </topicref>
 </map>

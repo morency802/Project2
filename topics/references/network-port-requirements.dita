@@ -3,6 +3,11 @@
 <reference id="network-port-requirements">
     <title>Network and port requirements</title>
     <shortdesc>For proper communication, the IBM StoredIQ components must be able to connect to each other. </shortdesc>
+<prolog>
+    <metadata>
+        <keywords conkeyref="indexKey/inNetPort"></keywords>
+    </metadata>
+</prolog>    
     <refbody> 
     <section>
         <title></title>

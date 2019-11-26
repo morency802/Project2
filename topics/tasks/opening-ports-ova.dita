@@ -3,6 +3,7 @@
 <task id="opening-ports-ova">
     <title></title>
     <shortdesc><b>Open ports for desktop client access to the data server </b></shortdesc>
+   
     <taskbody>
         <context>
             <p>To open ports for desktop client access to the data server on OVA deployed systems, follow these steps: </p>

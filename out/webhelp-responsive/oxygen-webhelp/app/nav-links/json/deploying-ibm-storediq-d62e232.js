@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Deploying the virtual appliances","shortdesc":"<p class=\"shortdesc\"></p>","href":"topics\/tasks\/deploying-virtual-appliances.html","attributes": {"data-id":"deploying-virtual-appliances",},"menu": {"hasChildren":false,},"tocID":"deploying-virtual-appliances-d62e243","topics":[]}]});

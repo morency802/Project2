@@ -1,0 +1,52 @@
+define(function() {var keywords=[{w:"About",p:["p0"]},{w:"this",p:["p0"]},{w:"publication",p:["p0"]},{w:"IBM",p:["p1","p2","p3","p4","p6","p7","p9","p10","p33","p40"]},{w:"StoredIQ",p:["p1","p2","p3","p4","p6","p9","p10","p33","p40"]},{w:"Administrator",p:["p1"]},{w:"Applications",p:["p2"]},{w:"of",p:["p2","p22"]},{w:"Data",p:["p3","p22","p24"]},{w:"Workbench",p:["p3"]},{w:"Insights",p:["p4"]},{w:"Connector",p:["p5"]},{w:"API",p:["p5"]},{w:"SDK",p:["p5"]},{w:"Contacting",p:["p6","p7"]},{w:"Customer",p:["p6"]},{w:"Service",p:["p6"]},{w:"Cover",p:["p8"]},{w:"Page",p:["p8"]},{w:"Deploying",p:["p9","p40","p43"]},{w:"components",p:["p10","p28"]},{w:"license",p:["p11","p12"]},{w:"usage",p:["p12"]},{w:"metrics",p:["p12"]},{w:"compatibility",p:["p13"]},{w:"reports",p:["p13"]},{w:"SPCR",p:["p14"]},{w:"tool",p:["p14"]},{w:"hardware",p:["p15"]},{w:"requirements",p:["p15","p31","p36","p38"]},{w:"deployment",p:["p16","p17","p18"]},{w:"planning",p:["p17","p18"]},{w:"for",p:["p18"]},{w:"Information",p:["p19"]},{w:"Processing",p:["p19"]},{w:"Standard",p:["p19"]},{w:"FIPS",p:["p20"]},{w:"key",p:["p21"]},{w:"management",p:["p21"]},{w:"encryption",p:["p22"]},{w:"Security",p:["p23"]},{w:"server",p:["p24","p42"]},{w:"DataServer-Classic",p:["p25"]},{w:"DataServer-Distributed",p:["p26"]},{w:"Elasticsearch",p:["p27"]},{w:"cluster",p:["p27"]},{w:"Solution",p:["p28"]},{w:"Default",p:["p29","p30","p35"]},{w:"password",p:["p29"]},{w:"user",p:["p30"]},{w:"accounts",p:["p30"]},{w:"VMWare",p:["p31"]},{w:"Environment",p:["p32"]},{w:"sizing",p:["p32"]},{w:"guidelines",p:["p32"]},{w:"product",p:["p33"]},{w:"library",p:["p33"]},{w:"ports",p:["p34","p35"]},{w:"open",p:["p35","p38"]},{w:"Network",p:["p36"]},{w:"and",p:["p36"]},{w:"port",p:["p36"]},{w:"virtual",p:["p37","p38","p43"]},{w:"appliances",p:["p37","p43"]},{w:"Appliance",p:["p38"]},{w:"(OVA)",p:["p38"]},{w:"configuration",p:["p38"]},{w:"Stack-provisioning",p:["p39"]},{w:"prerequisites",p:["p39"]},{w:"on",p:["p40"]},{w:"Microsoft",p:["p40"]},{w:"Hyper-V",p:["p40"]},{w:"vSphere",p:["p41"]},{w:"Client",p:["p41"]},{w:"vCenter",p:["p42"]},{w:"the",p:["p43"]},{w:"***",p:["p44"]}];
+var ph={};
+ph["p0"]=[0, 1, 2];
+ph["p1"]=[3, 4, 5];
+ph["p2"]=[6, 7, 3, 4];
+ph["p3"]=[3, 4, 8, 9];
+ph["p4"]=[3, 4, 10];
+ph["p5"]=[11, 12, 13];
+ph["p6"]=[14, 3, 4, 15, 16];
+ph["p7"]=[14, 3];
+ph["p8"]=[17, 18];
+ph["p9"]=[19, 3, 4];
+ph["p30"]=[47, 49, 50];
+ph["p10"]=[3, 4, 20];
+ph["p32"]=[52, 53, 54];
+ph["p31"]=[51, 29];
+ph["p12"]=[21, 22, 23];
+ph["p34"]=[57];
+ph["p11"]=[21];
+ph["p33"]=[3, 4, 55, 56];
+ph["p14"]=[26, 27];
+ph["p36"]=[59, 60, 61, 29];
+ph["p13"]=[24, 25];
+ph["p35"]=[47, 58, 57];
+ph["p16"]=[30];
+ph["p38"]=[58, 62, 64, 65, 66, 29];
+ph["p15"]=[28, 29];
+ph["p37"]=[62, 63];
+ph["p18"]=[31, 32, 30];
+ph["p17"]=[30, 31];
+ph["p39"]=[67, 68];
+ph["p19"]=[33, 34, 35];
+ph["p41"]=[72, 73];
+ph["p40"]=[19, 3, 4, 69, 70, 71];
+ph["p21"]=[37, 38];
+ph["p43"]=[19, 75, 62, 63];
+ph["p20"]=[36];
+ph["p42"]=[74, 41];
+ph["p23"]=[40];
+ph["p22"]=[39, 7, 8];
+ph["p44"]=[76];
+ph["p25"]=[42];
+ph["p24"]=[8, 41];
+ph["p27"]=[44, 45];
+ph["p26"]=[43];
+ph["p29"]=[47, 48];
+ph["p28"]=[46, 20];
+     return {
+         keywords: keywords,
+         ph: ph
+     }
+});

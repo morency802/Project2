@@ -3,6 +3,7 @@
 <reference id="stack-provisioning-prereqs">
     <title>Stack-provisioning prerequisites</title>
     <shortdesc>Before a deployment, verify that you meet these prerequisites. </shortdesc>
+    
     <refbody>
     <section>
         <ul>

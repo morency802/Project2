@@ -3,6 +3,11 @@
 <concept id="planning-for-deployment">
     <title>Planning for deployment</title>
     <shortdesc>When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations. </shortdesc>
+<prolog>
+    <metadata>
+        <keywords conkeyref="indexKey/inPlanDep"></keywords>
+    </metadata>
+</prolog>    
     <conbody>
         <section>
         <p>

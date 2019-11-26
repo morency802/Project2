@@ -4,14 +4,19 @@
     <title>Solution components</title>
     <shortdesc>
         IBM StoredIQ provides three solution components: the gateway, data servers, and application stack (AppStack). </shortdesc>
+<prolog>
+    <metadata>
+        <keywords conkeyref="indexKey/inSolCom"></keywords>
+    </metadata>
+</prolog>   
     <conbody>
     <dl>
-        <dlentry>
+        <dlentry platform="esx-server hyper-v" product="iqGateway">
             <dt>Gateway</dt>
             <dd><p>The gateway communicates between the data servers and the application stack. The application stack polls the gateway 
                 for information about the data on the data servers. The data servers push the information to the gateway. </p></dd>
         </dlentry>
-        <dlentry>
+        <dlentry rev="2.0" platform="hyper-v esx-server" product="iqServer">
             <dt>Data servers</dt>
             <dd><p>A data server obtains the data from supported data sources and indexes it. By indexing this data, you gain 
                 information about unstructured data such as file size, file data types, file owners. </p>
@@ -27,7 +32,7 @@
                    Data Collector and index desktops from the data server.</p>
             </dd>
         </dlentry>
-        <dlentry>
+        <dlentry platform="esx-server hyper-v" product="iqAppstack">
             <dt>Application stack</dt>
             <dd>
                 <p>The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ Data 
@@ -36,7 +41,7 @@
                </p>
             </dd>
         </dlentry>
-        <dlentry>
+        <dlentry rev="2.0" product="Elasticsearch">
             <dt>Elasticsearch cluster</dt>
             <dd>
                 <p>The Elasticsearch cluster attached to a data server of the type DataServer - Distributed provides a single 

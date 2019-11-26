@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="indexTerms">
+    <title></title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <keywords id="inAppsIbmSiq">
+                <keyword></keyword>
+                <indexterm>IBM StoredIQ Administrator
+                    <index-see>Applications of IBM StoredIQ</index-see>
+                </indexterm>
+                <indexterm>
+                    IBM StoredIQ Data Workbench
+                    <index-see>Applications of IBM StoredIQ</index-see>
+                </indexterm>
+                <indexterm>
+                    IBM StoredIQ Insights
+                    <index-see>Applications of IBM StoredIQ</index-see>
+                </indexterm>
+                <indexterm>
+                    Connector API SDK
+                </indexterm>
+            </keywords>
+            <keywords id="inSolCom">
+                <indexterm>
+                    data server
+                    <indexterm>DataServer-Classic</indexterm>
+                    <indexterm>DataServer-Distributed</indexterm>
+                </indexterm>
+                <indexterm>
+                    Elasticsearch cluster
+                </indexterm>
+            </keywords>
+            <keywords id="inDepVA">
+                <indexterm>
+                    vSphere Client
+                </indexterm>
+                <indexterm>
+                    vCenter server 
+                </indexterm>
+            </keywords>
+            <keywords id="inSec">
+                <indexterm>
+                    Information Processing Standard
+                    <index-see>FIPS</index-see>
+                </indexterm>
+                <indexterm>
+                    key management
+                </indexterm>
+                <indexterm>
+                    encryption of data
+                </indexterm>
+            </keywords>
+            <keywords id="inPlanDep">
+                <indexterm>
+                    compatibility reports 
+                    <index-see>SPCR tool</index-see>
+                </indexterm>
+                <indexterm>
+                    hardware requirements 
+                </indexterm>
+                <indexterm>
+                    deployment
+                    <indexterm>deployment planning </indexterm>
+                </indexterm>
+            </keywords>
+            <keywords id="inDefAccts">
+                <indexterm>
+                    Default password
+                    <indexterm>default user accounts</indexterm>
+                </indexterm>
+            </keywords>
+            <keywords id="inOVAconfig">
+                <indexterm>
+                    virtual appliances
+                </indexterm>
+            </keywords>
+            <keywords id="inDepMSHV">  
+                <indexterm>
+                    Microsoft Hyper-V 
+                </indexterm>
+            </keywords>
+            <keywords id="inNetPort">
+                <indexterm>
+                    ports
+                    <indexterm>default open ports</indexterm>
+                </indexterm>
+            </keywords>
+            <keywords id="inEnvSG">
+                <indexterm>
+                    VMWare requirements
+                </indexterm>
+            </keywords>
+            <keywords id="inLicUM">
+                <indexterm>
+                   license
+                    <indexterm>license usage metrics</indexterm>
+                </indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

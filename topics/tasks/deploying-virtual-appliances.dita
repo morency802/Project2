@@ -3,18 +3,23 @@
 <task id="deploying-virtual-appliances">
     <title>Deploying the virtual appliances</title>
     <shortdesc></shortdesc>
+<prolog>
+    <metadata>
+        <keywords conkeyref="indexKey/inDepVA"></keywords>
+    </metadata>
+</prolog>    
     <taskbody>
         <prereq>
-            <p>
+            <p audience="techsupport">
                 Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, 
                 the data server, and the application stack, preferably in this order. If an Elasticsearch cluster is also 
                 being deployed, those OVAs must be deployed first. 
             </p>
-            <p>
+            <p audience="techsupport">
                 Ensure that all prerequisites for the deployment described in the planning section are met and that the 
                 required software packages are available on your local system before you start this task. 
             </p>
-            <p>
+            <p audience="techsupport">
                 Download the latest version of IBM StoredIQ from either IBM Fix Central or IBM Passport Advantage&#0174;. For 
                 information about the package names and part numbers and the links to the proper download locations, see the 
                 <xref conkeyref="externalrefs/downloadDoc"></xref>. 

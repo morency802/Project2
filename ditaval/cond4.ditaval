@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- License Usage Metrics - Tech Writer review flagging -->
+    <revprop action="flag" val="1.0" backcolor="yellow"></revprop>
+    <prop action="flag" att="audience" val="techwriter" style="italics"></prop>
+    <prop action="flag" att="audience" val="expert" color="red"/>
+</val>

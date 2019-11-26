@@ -3,6 +3,11 @@
 <reference id="environment-sizing-guidelines">
     <title>Environment sizing guidelines</title>
     <shortdesc>To size an environment precisely, you must understand the factors such as harvest frequency, complexity of the source, and use case scenarios that drive application use and action execution. </shortdesc>
+<prolog>
+    <metadata>
+        <keywords conkeyref="indexKey/inEnvSG"></keywords>
+    </metadata>
+</prolog>    
     <refbody> 
         <section>
             <p>The general design guidelines for IBM StoredIQ are as follows: </p>
@@ -35,7 +40,7 @@
             </p>
         </section>
         <section>
-            <p><b>VMware requirements </b></p>
+            <p><b>VMware requirements</b></p>
             <p>
                 <ul>
                     <li>VMware vSphere v5.0 and fix packs or v6.0 and fix packs. </li>

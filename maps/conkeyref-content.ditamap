@@ -5,4 +5,5 @@
     <keydef keys="screenshots" href="../topics/references/images-for-reuse.dita"></keydef>
     <keydef keys="externalrefs" href="../topics/references/external-resources.dita"></keydef>
     <keydef keys="hazstmt" href="../topics/concepts/hazard.dita"></keydef>
+    <keydef keys="indexKey" href="../topics/concepts/indexTerms.dita"></keydef>
 </map>
